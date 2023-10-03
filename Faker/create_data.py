@@ -18,7 +18,7 @@ Faker.seed(0)
 num_transactions = 1000
 
 # Updated list of payment methods
-payment_methods = ["Credit Card", "Debit Card", "PayPal", "Apple Pay", "Google Wallet", "In Store Card"]
+payment_methods = ["Credit Card", "Debit Card", "PayPal", "Apple Pay", "Google Wallet", "Store Card"]
 
 # List of merchandise categories
 categories = ["Electronics", "Clothing", "Books", "Home & Garden", "Sports & Outdoors"]

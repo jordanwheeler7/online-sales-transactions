@@ -1,0 +1,1001 @@
+Payment Method,Payment Amount,Category,Timestamp
+Credit Card,422.95,Electronics,2022-10-03 06:59:59
+Apple Pay,45.5,Books,2022-10-03 08:35:55
+Google Wallet,336.09,Electronics,2022-10-03 17:00:25
+Credit Card,496.34,Sports & Outdoors,2022-10-03 20:33:43
+Credit Card,268.79,Home & Garden,2022-10-04 04:19:45
+PayPal,134.72,Home & Garden,2022-10-04 12:28:50
+Credit Card,75.75,Clothing,2022-10-04 13:58:42
+Debit Card,496.03,Electronics,2022-10-06 01:19:13
+Credit Card,469.83,Books,2022-10-06 07:31:55
+Credit Card,66.31,Home & Garden,2022-10-06 17:16:55
+PayPal,136.84,Books,2022-10-07 00:48:33
+Debit Card,138.49,Books,2022-10-07 03:13:43
+Debit Card,352.42,Sports & Outdoors,2022-10-08 02:16:12
+Google Wallet,165.4,Books,2022-10-08 09:25:23
+PayPal,462.16,Home & Garden,2022-10-08 17:14:00
+Store Card,479.98,Books,2022-10-08 19:33:35
+PayPal,123.72,Sports & Outdoors,2022-10-08 23:38:31
+PayPal,471.57,Sports & Outdoors,2022-10-09 04:49:23
+PayPal,86.0,Electronics,2022-10-09 13:26:03
+Credit Card,423.48,Sports & Outdoors,2022-10-10 11:28:50
+Google Wallet,14.62,Books,2022-10-11 02:53:40
+Store Card,450.55,Sports & Outdoors,2022-10-11 05:15:33
+Credit Card,45.08,Electronics,2022-10-11 16:01:19
+Apple Pay,178.87,Electronics,2022-10-11 17:58:12
+Credit Card,352.95,Electronics,2022-10-12 02:42:15
+Google Wallet,132.98,Books,2022-10-12 20:06:36
+Google Wallet,370.91,Sports & Outdoors,2022-10-13 14:48:25
+Google Wallet,284.69,Home & Garden,2022-10-13 15:11:14
+Credit Card,348.49,Sports & Outdoors,2022-10-13 23:46:57
+Apple Pay,249.77,Sports & Outdoors,2022-10-14 02:44:23
+Debit Card,475.24,Home & Garden,2022-10-14 16:10:24
+Credit Card,348.99,Home & Garden,2022-10-14 23:13:36
+PayPal,72.11,Electronics,2022-10-15 04:30:28
+Credit Card,350.96,Books,2022-10-15 12:22:49
+Debit Card,481.23,Clothing,2022-10-15 20:57:19
+Apple Pay,380.62,Clothing,2022-10-16 01:40:49
+Google Wallet,319.0,Home & Garden,2022-10-16 07:41:52
+Store Card,79.01,Home & Garden,2022-10-16 22:15:16
+Store Card,351.52,Home & Garden,2022-10-17 00:56:36
+Google Wallet,309.71,Books,2022-10-17 02:46:53
+PayPal,144.25,Clothing,2022-10-17 05:16:58
+Credit Card,339.27,Home & Garden,2022-10-17 09:33:13
+Store Card,451.14,Sports & Outdoors,2022-10-17 22:54:14
+Google Wallet,435.1,Clothing,2022-10-18 02:15:35
+PayPal,343.41,Books,2022-10-18 06:31:14
+PayPal,369.93,Books,2022-10-18 09:01:28
+Store Card,77.26,Sports & Outdoors,2022-10-18 13:23:29
+Debit Card,444.63,Books,2022-10-18 13:44:14
+Debit Card,113.42,Electronics,2022-10-18 19:00:07
+Google Wallet,418.2,Clothing,2022-10-18 23:41:49
+Credit Card,409.84,Clothing,2022-10-19 01:04:23
+PayPal,293.46,Books,2022-10-19 01:21:52
+Debit Card,423.4,Books,2022-10-19 06:23:40
+PayPal,240.57,Clothing,2022-10-19 13:51:57
+Apple Pay,309.71,Clothing,2022-10-19 14:46:08
+Google Wallet,416.52,Sports & Outdoors,2022-10-19 16:35:51
+Credit Card,330.17,Books,2022-10-20 14:26:19
+Google Wallet,83.32,Clothing,2022-10-20 19:58:02
+Apple Pay,136.95,Clothing,2022-10-21 00:16:38
+Store Card,137.27,Books,2022-10-21 10:22:24
+Debit Card,242.03,Sports & Outdoors,2022-10-21 12:44:01
+Debit Card,45.01,Sports & Outdoors,2022-10-22 00:08:13
+Debit Card,88.49,Home & Garden,2022-10-22 15:03:22
+Store Card,45.46,Books,2022-10-24 19:54:17
+Store Card,103.19,Books,2022-10-25 19:25:45
+Debit Card,284.37,Electronics,2022-10-26 15:05:41
+PayPal,223.07,Books,2022-10-26 23:18:43
+Debit Card,27.37,Electronics,2022-10-26 23:42:27
+Debit Card,266.31,Clothing,2022-10-27 00:22:19
+Store Card,273.44,Sports & Outdoors,2022-10-27 10:01:51
+Apple Pay,306.98,Sports & Outdoors,2022-10-27 10:38:56
+Google Wallet,86.12,Books,2022-10-27 10:50:35
+PayPal,76.75,Books,2022-10-27 16:50:18
+Apple Pay,471.59,Books,2022-10-27 17:24:40
+Credit Card,383.25,Home & Garden,2022-10-28 01:33:16
+Google Wallet,349.47,Clothing,2022-10-28 01:49:07
+Credit Card,33.24,Electronics,2022-10-28 17:59:09
+Google Wallet,281.47,Books,2022-10-28 19:58:44
+Google Wallet,91.55,Books,2022-10-29 00:49:32
+Store Card,448.18,Clothing,2022-10-29 00:52:01
+Debit Card,71.7,Sports & Outdoors,2022-10-30 02:16:35
+Debit Card,358.72,Clothing,2022-10-30 10:50:33
+Google Wallet,456.59,Electronics,2022-10-30 13:52:24
+Google Wallet,384.1,Electronics,2022-10-30 15:37:37
+PayPal,470.42,Books,2022-10-30 18:50:42
+PayPal,111.01,Clothing,2022-10-31 05:10:48
+Google Wallet,20.66,Clothing,2022-10-31 21:41:04
+Debit Card,234.96,Clothing,2022-11-01 00:03:22
+Google Wallet,267.44,Electronics,2022-11-01 12:34:15
+Credit Card,107.98,Home & Garden,2022-11-01 22:03:51
+Store Card,424.91,Books,2022-11-02 18:23:15
+Google Wallet,402.25,Clothing,2022-11-02 23:22:35
+Debit Card,205.46,Clothing,2022-11-03 10:19:25
+Google Wallet,365.21,Home & Garden,2022-11-03 12:09:52
+PayPal,430.63,Books,2022-11-03 14:44:57
+Store Card,251.16,Sports & Outdoors,2022-11-03 15:32:59
+PayPal,274.16,Home & Garden,2022-11-03 20:32:58
+Store Card,448.03,Electronics,2022-11-03 23:06:19
+Store Card,238.06,Home & Garden,2022-11-04 06:07:37
+Credit Card,63.7,Electronics,2022-11-04 16:19:28
+Store Card,301.41,Sports & Outdoors,2022-11-04 18:09:11
+Store Card,59.29,Clothing,2022-11-04 21:35:26
+Debit Card,32.87,Sports & Outdoors,2022-11-05 03:17:11
+PayPal,419.52,Books,2022-11-05 03:31:58
+Google Wallet,293.75,Books,2022-11-06 00:31:29
+Google Wallet,135.09,Electronics,2022-11-07 03:34:44
+Store Card,185.31,Books,2022-11-07 11:14:43
+Apple Pay,128.45,Home & Garden,2022-11-07 16:32:58
+Store Card,284.6,Home & Garden,2022-11-07 19:29:38
+PayPal,267.89,Sports & Outdoors,2022-11-07 20:25:41
+Google Wallet,333.86,Electronics,2022-11-08 11:42:43
+Debit Card,244.6,Clothing,2022-11-08 13:37:00
+PayPal,54.68,Clothing,2022-11-08 15:46:21
+Debit Card,265.03,Sports & Outdoors,2022-11-09 02:14:31
+Google Wallet,171.0,Clothing,2022-11-10 05:46:17
+PayPal,212.53,Clothing,2022-11-10 08:29:40
+Store Card,208.3,Electronics,2022-11-10 14:53:46
+Debit Card,11.32,Home & Garden,2022-11-10 19:04:07
+Store Card,494.3,Electronics,2022-11-10 20:50:00
+PayPal,54.59,Books,2022-11-11 04:06:25
+Store Card,400.74,Books,2022-11-11 08:05:07
+PayPal,331.03,Clothing,2022-11-11 08:57:30
+Google Wallet,277.09,Electronics,2022-11-11 11:00:33
+Debit Card,377.55,Clothing,2022-11-11 16:13:19
+PayPal,38.65,Sports & Outdoors,2022-11-11 16:24:21
+Credit Card,78.21,Electronics,2022-11-12 02:28:27
+Debit Card,156.22,Home & Garden,2022-11-12 21:34:28
+Apple Pay,336.98,Sports & Outdoors,2022-11-12 22:39:40
+Store Card,74.51,Home & Garden,2022-11-12 22:49:56
+Credit Card,294.41,Sports & Outdoors,2022-11-13 03:45:19
+Debit Card,145.86,Books,2022-11-14 11:03:35
+Google Wallet,390.39,Sports & Outdoors,2022-11-14 14:50:53
+Apple Pay,105.47,Home & Garden,2022-11-15 08:55:17
+Store Card,282.06,Clothing,2022-11-15 21:54:56
+PayPal,217.09,Books,2022-11-16 07:44:18
+Apple Pay,221.91,Electronics,2022-11-16 21:16:02
+Credit Card,246.78,Electronics,2022-11-16 22:20:54
+Google Wallet,307.22,Electronics,2022-11-16 23:15:07
+Google Wallet,323.77,Electronics,2022-11-17 01:29:34
+Google Wallet,383.97,Home & Garden,2022-11-17 05:29:50
+PayPal,229.12,Electronics,2022-11-17 07:37:43
+Store Card,284.6,Home & Garden,2022-11-17 07:59:01
+Store Card,465.33,Sports & Outdoors,2022-11-17 18:07:33
+Credit Card,456.19,Sports & Outdoors,2022-11-17 18:51:29
+Debit Card,437.01,Home & Garden,2022-11-18 10:37:11
+Store Card,68.18,Clothing,2022-11-18 10:40:46
+Debit Card,89.16,Home & Garden,2022-11-18 17:59:52
+Apple Pay,195.78,Books,2022-11-19 09:40:48
+Store Card,458.99,Electronics,2022-11-19 11:18:20
+Apple Pay,289.8,Electronics,2022-11-20 02:33:06
+Apple Pay,450.9,Electronics,2022-11-20 09:08:30
+Debit Card,253.17,Clothing,2022-11-20 13:08:13
+Google Wallet,280.4,Electronics,2022-11-20 13:08:47
+Credit Card,401.29,Clothing,2022-11-20 14:15:17
+Debit Card,84.03,Clothing,2022-11-20 17:40:31
+Store Card,277.61,Home & Garden,2022-11-21 15:05:53
+Credit Card,379.96,Sports & Outdoors,2022-11-21 17:04:16
+PayPal,229.09,Sports & Outdoors,2022-11-22 14:41:47
+Credit Card,436.17,Electronics,2022-11-22 19:30:46
+Credit Card,298.91,Clothing,2022-11-22 20:08:06
+Google Wallet,204.09,Sports & Outdoors,2022-11-22 22:38:56
+Store Card,474.81,Electronics,2022-11-22 22:54:22
+Store Card,349.26,Books,2022-11-23 15:53:36
+Credit Card,22.55,Electronics,2022-11-23 19:13:37
+Debit Card,40.83,Sports & Outdoors,2022-11-24 01:55:29
+Store Card,261.14,Sports & Outdoors,2022-11-24 15:07:58
+Debit Card,448.79,Electronics,2022-11-26 00:52:03
+Google Wallet,435.99,Clothing,2022-11-26 08:28:49
+Debit Card,139.44,Sports & Outdoors,2022-11-26 12:52:49
+Apple Pay,482.09,Electronics,2022-11-26 23:41:02
+Debit Card,308.1,Sports & Outdoors,2022-11-27 08:50:31
+Credit Card,269.0,Clothing,2022-11-27 14:29:57
+Apple Pay,281.3,Clothing,2022-11-27 21:55:31
+Google Wallet,170.94,Home & Garden,2022-11-28 20:17:18
+PayPal,29.15,Home & Garden,2022-11-29 02:28:40
+Apple Pay,464.13,Clothing,2022-11-29 02:30:54
+Debit Card,26.94,Electronics,2022-11-29 08:08:05
+PayPal,308.61,Electronics,2022-11-29 21:14:05
+Apple Pay,213.08,Electronics,2022-11-29 21:33:44
+Credit Card,406.64,Electronics,2022-11-30 01:27:12
+Credit Card,161.32,Sports & Outdoors,2022-11-30 07:00:49
+Store Card,134.32,Electronics,2022-11-30 08:15:55
+Apple Pay,432.72,Electronics,2022-11-30 21:59:35
+Credit Card,154.5,Home & Garden,2022-12-01 00:53:37
+Apple Pay,21.92,Clothing,2022-12-01 01:12:18
+Apple Pay,287.56,Electronics,2022-12-01 01:15:39
+Debit Card,145.42,Electronics,2022-12-01 20:15:57
+Google Wallet,403.8,Home & Garden,2022-12-02 05:50:30
+Debit Card,51.2,Sports & Outdoors,2022-12-02 17:14:59
+Google Wallet,412.75,Clothing,2022-12-02 19:29:54
+Google Wallet,34.94,Books,2022-12-02 21:50:37
+Credit Card,19.34,Electronics,2022-12-03 12:06:02
+PayPal,235.24,Books,2022-12-03 16:57:59
+Credit Card,254.18,Electronics,2022-12-04 10:24:25
+Debit Card,309.95,Books,2022-12-04 16:05:42
+Google Wallet,164.32,Clothing,2022-12-05 03:52:35
+Store Card,154.85,Clothing,2022-12-05 21:02:21
+Google Wallet,442.34,Electronics,2022-12-05 21:38:46
+Debit Card,120.54,Clothing,2022-12-06 14:33:28
+PayPal,251.36,Books,2022-12-06 22:46:16
+PayPal,387.82,Books,2022-12-06 23:00:13
+Google Wallet,491.04,Electronics,2022-12-08 01:30:25
+PayPal,372.54,Home & Garden,2022-12-08 11:21:38
+Apple Pay,260.32,Home & Garden,2022-12-10 03:47:27
+PayPal,150.06,Books,2022-12-11 08:34:29
+Store Card,20.7,Clothing,2022-12-11 12:07:22
+PayPal,163.35,Sports & Outdoors,2022-12-12 00:13:33
+PayPal,309.48,Clothing,2022-12-12 07:02:23
+PayPal,83.6,Clothing,2022-12-12 22:25:42
+Store Card,433.63,Sports & Outdoors,2022-12-13 00:46:46
+Apple Pay,159.92,Sports & Outdoors,2022-12-13 16:08:09
+Google Wallet,376.06,Home & Garden,2022-12-13 17:47:02
+Debit Card,82.98,Clothing,2022-12-14 02:25:07
+Apple Pay,141.28,Clothing,2022-12-14 18:48:02
+Apple Pay,417.96,Home & Garden,2022-12-14 21:14:39
+Credit Card,355.96,Electronics,2022-12-15 06:39:15
+PayPal,37.33,Sports & Outdoors,2022-12-15 11:29:41
+PayPal,198.78,Electronics,2022-12-15 17:09:03
+Google Wallet,305.77,Books,2022-12-15 19:36:37
+Google Wallet,117.68,Electronics,2022-12-16 04:48:53
+Debit Card,180.2,Sports & Outdoors,2022-12-16 05:34:13
+Store Card,191.18,Home & Garden,2022-12-16 05:44:05
+Credit Card,340.22,Electronics,2022-12-16 11:13:46
+PayPal,249.19,Sports & Outdoors,2022-12-16 19:24:44
+Debit Card,154.8,Home & Garden,2022-12-16 22:48:36
+PayPal,268.33,Sports & Outdoors,2022-12-17 20:04:27
+Apple Pay,189.28,Home & Garden,2022-12-17 23:38:28
+Store Card,326.47,Home & Garden,2022-12-19 03:34:11
+Store Card,245.41,Electronics,2022-12-19 04:13:28
+Apple Pay,11.9,Sports & Outdoors,2022-12-19 08:39:43
+Credit Card,278.4,Books,2022-12-19 16:29:09
+Apple Pay,350.5,Clothing,2022-12-20 14:13:22
+PayPal,11.55,Books,2022-12-20 17:03:02
+Apple Pay,417.5,Books,2022-12-21 04:20:01
+PayPal,108.77,Books,2022-12-21 06:19:03
+Google Wallet,287.69,Electronics,2022-12-21 16:13:33
+PayPal,199.4,Clothing,2022-12-21 19:08:37
+Apple Pay,394.55,Clothing,2022-12-22 03:57:04
+Credit Card,17.82,Clothing,2022-12-22 07:23:29
+Credit Card,491.59,Clothing,2022-12-22 17:53:50
+Store Card,218.33,Books,2022-12-22 23:36:09
+PayPal,164.86,Books,2022-12-23 00:51:04
+Credit Card,337.29,Clothing,2022-12-23 02:10:31
+Debit Card,121.96,Electronics,2022-12-24 01:04:14
+PayPal,59.87,Electronics,2022-12-25 04:32:57
+Store Card,333.27,Home & Garden,2022-12-25 20:10:36
+Store Card,491.93,Clothing,2022-12-26 02:38:11
+Credit Card,63.11,Home & Garden,2022-12-26 03:25:44
+Debit Card,24.31,Books,2022-12-26 15:18:18
+Store Card,11.85,Electronics,2022-12-27 02:23:20
+Store Card,129.37,Clothing,2022-12-27 05:28:06
+Credit Card,71.48,Electronics,2022-12-27 05:28:21
+PayPal,408.09,Sports & Outdoors,2022-12-27 18:11:19
+Credit Card,398.15,Clothing,2022-12-27 21:11:47
+Debit Card,484.19,Sports & Outdoors,2022-12-28 00:37:59
+Google Wallet,471.88,Home & Garden,2022-12-28 02:46:18
+PayPal,78.84,Sports & Outdoors,2022-12-28 08:47:07
+Debit Card,240.52,Home & Garden,2022-12-28 21:46:39
+Apple Pay,198.58,Sports & Outdoors,2022-12-29 16:21:08
+Apple Pay,112.46,Home & Garden,2022-12-31 10:53:50
+Apple Pay,40.96,Clothing,2022-12-31 18:42:38
+Debit Card,189.75,Home & Garden,2023-01-01 16:47:48
+PayPal,189.04,Home & Garden,2023-01-01 23:23:44
+Credit Card,200.21,Home & Garden,2023-01-02 17:23:25
+Store Card,169.62,Books,2023-01-03 22:25:00
+Debit Card,140.67,Clothing,2023-01-04 01:32:47
+Apple Pay,66.09,Clothing,2023-01-04 05:52:25
+Credit Card,221.91,Books,2023-01-04 08:34:40
+PayPal,90.4,Books,2023-01-04 12:31:58
+Apple Pay,341.46,Books,2023-01-05 06:57:27
+Debit Card,240.03,Sports & Outdoors,2023-01-05 15:36:41
+PayPal,448.21,Home & Garden,2023-01-05 23:46:09
+Store Card,326.7,Home & Garden,2023-01-08 13:14:36
+Credit Card,297.64,Clothing,2023-01-08 14:55:50
+Credit Card,468.61,Books,2023-01-08 17:13:02
+Store Card,50.12,Clothing,2023-01-09 08:37:36
+Credit Card,332.47,Clothing,2023-01-10 02:05:19
+Debit Card,497.24,Books,2023-01-10 10:43:42
+Apple Pay,199.69,Books,2023-01-10 20:55:08
+PayPal,359.11,Clothing,2023-01-10 21:00:14
+Store Card,380.56,Home & Garden,2023-01-11 00:40:05
+Store Card,147.98,Books,2023-01-11 13:07:45
+Google Wallet,466.37,Electronics,2023-01-11 19:38:03
+Debit Card,62.49,Home & Garden,2023-01-11 22:31:31
+Debit Card,274.02,Electronics,2023-01-12 02:38:57
+Apple Pay,217.77,Clothing,2023-01-12 04:59:03
+Credit Card,402.98,Books,2023-01-12 06:15:17
+Apple Pay,331.58,Sports & Outdoors,2023-01-12 06:58:22
+Store Card,88.71,Electronics,2023-01-12 10:19:10
+Apple Pay,88.9,Home & Garden,2023-01-12 14:16:25
+Apple Pay,447.88,Sports & Outdoors,2023-01-13 00:26:32
+Store Card,457.17,Home & Garden,2023-01-15 23:24:56
+PayPal,462.5,Books,2023-01-16 12:36:43
+Credit Card,231.58,Clothing,2023-01-16 15:44:20
+Debit Card,197.38,Clothing,2023-01-17 22:52:25
+PayPal,373.33,Home & Garden,2023-01-18 03:30:21
+PayPal,116.27,Home & Garden,2023-01-18 07:27:05
+Debit Card,35.54,Home & Garden,2023-01-19 09:19:22
+Credit Card,155.39,Clothing,2023-01-19 23:59:00
+Google Wallet,99.88,Home & Garden,2023-01-20 08:22:34
+Credit Card,307.03,Clothing,2023-01-20 17:16:27
+Google Wallet,205.92,Electronics,2023-01-22 18:12:45
+Credit Card,135.81,Clothing,2023-01-22 23:30:55
+Store Card,456.24,Sports & Outdoors,2023-01-23 01:34:18
+Debit Card,111.95,Clothing,2023-01-23 16:58:42
+Debit Card,166.04,Home & Garden,2023-01-23 18:13:14
+Store Card,226.19,Electronics,2023-01-23 19:40:51
+Store Card,337.23,Sports & Outdoors,2023-01-24 00:25:20
+Apple Pay,373.27,Electronics,2023-01-24 07:00:09
+Debit Card,258.4,Electronics,2023-01-24 07:31:01
+Credit Card,189.91,Books,2023-01-24 21:52:59
+Credit Card,168.91,Books,2023-01-25 03:45:50
+Store Card,250.71,Books,2023-01-25 05:06:24
+Store Card,454.68,Books,2023-01-25 08:48:09
+Apple Pay,318.96,Clothing,2023-01-25 14:11:51
+Google Wallet,227.96,Electronics,2023-01-26 08:30:22
+Store Card,249.45,Electronics,2023-01-26 08:52:35
+Store Card,484.49,Electronics,2023-01-27 11:20:20
+PayPal,136.85,Clothing,2023-01-27 22:44:10
+Debit Card,112.8,Sports & Outdoors,2023-01-28 04:27:07
+Google Wallet,212.19,Books,2023-01-28 08:02:34
+Debit Card,241.4,Sports & Outdoors,2023-01-28 12:17:46
+Google Wallet,26.54,Electronics,2023-01-28 17:04:37
+Apple Pay,381.03,Clothing,2023-01-28 17:19:10
+Store Card,86.55,Clothing,2023-01-28 19:27:01
+PayPal,498.25,Clothing,2023-01-28 20:42:04
+PayPal,456.61,Home & Garden,2023-01-29 01:26:05
+Apple Pay,137.98,Sports & Outdoors,2023-01-29 20:03:55
+Store Card,242.18,Home & Garden,2023-01-30 18:54:34
+Debit Card,400.43,Sports & Outdoors,2023-01-30 20:00:09
+Credit Card,140.9,Books,2023-01-31 17:08:24
+Google Wallet,27.53,Clothing,2023-01-31 18:32:18
+PayPal,273.97,Books,2023-02-01 05:14:32
+Store Card,272.06,Home & Garden,2023-02-01 10:56:56
+Credit Card,239.69,Books,2023-02-02 11:41:42
+Google Wallet,83.44,Books,2023-02-03 01:20:23
+Debit Card,385.11,Clothing,2023-02-03 01:31:19
+Google Wallet,279.37,Books,2023-02-03 09:26:45
+Apple Pay,189.13,Electronics,2023-02-03 20:44:53
+Credit Card,81.97,Clothing,2023-02-04 13:28:49
+Apple Pay,330.1,Electronics,2023-02-05 05:58:50
+Debit Card,143.73,Books,2023-02-05 11:54:11
+Apple Pay,486.86,Books,2023-02-06 01:25:40
+PayPal,392.86,Books,2023-02-06 05:16:54
+Google Wallet,310.69,Electronics,2023-02-06 06:54:22
+Credit Card,442.72,Electronics,2023-02-06 13:28:46
+PayPal,374.27,Electronics,2023-02-06 20:22:21
+Google Wallet,211.73,Sports & Outdoors,2023-02-07 06:04:06
+Store Card,438.8,Sports & Outdoors,2023-02-07 20:23:24
+Apple Pay,436.57,Sports & Outdoors,2023-02-08 12:00:59
+Store Card,296.12,Sports & Outdoors,2023-02-08 15:43:05
+PayPal,143.05,Sports & Outdoors,2023-02-09 09:49:00
+PayPal,83.47,Home & Garden,2023-02-09 11:12:42
+Debit Card,429.42,Clothing,2023-02-09 11:48:53
+Apple Pay,487.17,Electronics,2023-02-09 15:23:59
+Store Card,426.42,Books,2023-02-09 17:56:48
+Apple Pay,356.61,Clothing,2023-02-09 23:41:26
+PayPal,116.6,Books,2023-02-10 03:12:17
+Apple Pay,459.4,Books,2023-02-10 08:54:15
+Debit Card,428.5,Books,2023-02-10 09:32:42
+Debit Card,28.05,Books,2023-02-10 11:18:09
+Google Wallet,85.22,Home & Garden,2023-02-10 17:19:28
+Store Card,195.14,Books,2023-02-11 04:10:25
+Debit Card,139.32,Books,2023-02-11 08:11:11
+Debit Card,419.52,Books,2023-02-11 11:29:19
+PayPal,438.58,Home & Garden,2023-02-11 15:07:45
+Google Wallet,345.13,Electronics,2023-02-12 09:26:18
+PayPal,30.29,Electronics,2023-02-13 04:56:21
+Credit Card,485.8,Clothing,2023-02-13 17:25:13
+Google Wallet,426.19,Clothing,2023-02-14 00:51:29
+Credit Card,236.33,Sports & Outdoors,2023-02-14 10:08:13
+Debit Card,320.2,Home & Garden,2023-02-14 21:32:06
+Store Card,291.22,Books,2023-02-15 01:07:25
+Store Card,361.59,Sports & Outdoors,2023-02-15 08:48:38
+Google Wallet,427.17,Home & Garden,2023-02-16 07:19:54
+Apple Pay,160.31,Home & Garden,2023-02-17 01:20:07
+Apple Pay,279.56,Electronics,2023-02-17 03:55:17
+Debit Card,481.24,Books,2023-02-17 06:25:37
+Google Wallet,415.75,Home & Garden,2023-02-17 15:55:46
+Apple Pay,14.51,Clothing,2023-02-18 17:40:39
+PayPal,113.43,Sports & Outdoors,2023-02-18 23:15:00
+Debit Card,74.66,Electronics,2023-02-19 01:15:44
+Google Wallet,138.8,Electronics,2023-02-19 07:37:02
+Store Card,269.71,Home & Garden,2023-02-19 12:00:26
+Store Card,469.73,Electronics,2023-02-19 12:19:58
+Apple Pay,52.55,Electronics,2023-02-19 18:21:11
+Apple Pay,399.1,Clothing,2023-02-19 18:50:19
+PayPal,462.7,Electronics,2023-02-20 10:14:55
+Store Card,52.19,Home & Garden,2023-02-20 17:06:14
+PayPal,178.65,Books,2023-02-20 22:40:32
+Google Wallet,306.26,Electronics,2023-02-22 07:52:53
+PayPal,444.96,Clothing,2023-02-22 18:03:11
+Store Card,189.04,Home & Garden,2023-02-22 20:55:15
+Google Wallet,67.49,Sports & Outdoors,2023-02-23 07:27:11
+Google Wallet,367.17,Clothing,2023-02-23 14:53:51
+Debit Card,207.12,Clothing,2023-02-24 00:18:34
+PayPal,129.8,Electronics,2023-02-24 11:19:33
+Store Card,473.86,Electronics,2023-02-24 13:44:49
+Google Wallet,356.11,Sports & Outdoors,2023-02-24 18:12:27
+Credit Card,243.52,Electronics,2023-02-24 21:50:02
+Google Wallet,65.73,Electronics,2023-02-26 02:56:02
+Debit Card,416.85,Home & Garden,2023-02-26 03:00:16
+Credit Card,414.56,Books,2023-02-27 01:52:06
+Google Wallet,261.97,Home & Garden,2023-02-27 07:36:39
+Store Card,299.26,Electronics,2023-02-27 10:56:20
+Google Wallet,61.75,Clothing,2023-02-28 17:01:15
+Apple Pay,44.15,Clothing,2023-03-01 04:02:00
+Credit Card,373.47,Sports & Outdoors,2023-03-01 06:30:24
+PayPal,331.28,Electronics,2023-03-01 10:59:00
+Google Wallet,240.2,Sports & Outdoors,2023-03-01 17:03:43
+Store Card,469.84,Clothing,2023-03-01 17:53:38
+Credit Card,291.8,Home & Garden,2023-03-01 21:06:06
+Credit Card,371.1,Home & Garden,2023-03-02 10:30:07
+PayPal,322.55,Home & Garden,2023-03-02 19:28:29
+Credit Card,249.64,Clothing,2023-03-02 22:56:16
+Google Wallet,466.93,Books,2023-03-03 04:04:47
+Store Card,19.81,Electronics,2023-03-03 04:45:48
+Debit Card,471.6,Home & Garden,2023-03-04 04:41:28
+Google Wallet,17.1,Books,2023-03-04 05:18:49
+Store Card,254.25,Electronics,2023-03-04 05:29:55
+Apple Pay,383.07,Electronics,2023-03-04 12:18:21
+Credit Card,140.08,Clothing,2023-03-05 04:54:41
+Debit Card,78.14,Sports & Outdoors,2023-03-05 14:04:59
+Google Wallet,148.74,Electronics,2023-03-06 07:49:53
+PayPal,270.82,Sports & Outdoors,2023-03-06 19:33:06
+Store Card,267.68,Books,2023-03-07 03:39:36
+Apple Pay,118.65,Sports & Outdoors,2023-03-08 07:33:34
+PayPal,98.04,Clothing,2023-03-08 11:45:22
+PayPal,208.33,Electronics,2023-03-08 20:09:50
+Credit Card,163.59,Home & Garden,2023-03-09 12:36:53
+Store Card,106.28,Clothing,2023-03-09 21:40:53
+Apple Pay,295.13,Home & Garden,2023-03-10 17:52:22
+PayPal,76.21,Clothing,2023-03-11 10:57:01
+Credit Card,111.82,Books,2023-03-11 22:27:34
+Apple Pay,390.77,Clothing,2023-03-13 04:54:10
+Google Wallet,320.81,Home & Garden,2023-03-13 05:00:39
+Debit Card,427.67,Home & Garden,2023-03-13 07:50:27
+Credit Card,495.78,Home & Garden,2023-03-13 11:42:59
+Google Wallet,402.62,Sports & Outdoors,2023-03-13 11:56:25
+PayPal,132.53,Books,2023-03-13 16:24:43
+Credit Card,222.37,Books,2023-03-14 05:15:31
+Credit Card,41.52,Home & Garden,2023-03-14 09:35:53
+Google Wallet,207.55,Home & Garden,2023-03-14 12:54:44
+Store Card,362.92,Books,2023-03-14 13:08:56
+Credit Card,495.85,Electronics,2023-03-14 16:30:33
+Google Wallet,53.88,Sports & Outdoors,2023-03-15 03:39:47
+PayPal,333.72,Electronics,2023-03-15 10:04:28
+Google Wallet,139.89,Electronics,2023-03-15 14:21:59
+Google Wallet,271.92,Books,2023-03-16 04:12:25
+Apple Pay,173.38,Clothing,2023-03-16 13:21:21
+Google Wallet,314.91,Clothing,2023-03-16 15:13:39
+Debit Card,126.87,Sports & Outdoors,2023-03-17 13:24:37
+Credit Card,219.8,Books,2023-03-17 16:41:08
+Credit Card,295.1,Sports & Outdoors,2023-03-17 18:11:07
+Google Wallet,473.77,Home & Garden,2023-03-17 20:22:50
+Credit Card,23.56,Home & Garden,2023-03-17 21:57:09
+Credit Card,362.35,Home & Garden,2023-03-19 16:22:15
+Credit Card,458.49,Electronics,2023-03-19 17:37:35
+Debit Card,421.26,Home & Garden,2023-03-20 21:07:48
+Store Card,208.09,Clothing,2023-03-21 08:57:21
+Store Card,419.57,Books,2023-03-21 14:48:34
+Google Wallet,413.53,Home & Garden,2023-03-24 01:01:15
+Credit Card,403.76,Clothing,2023-03-24 04:33:23
+Store Card,171.9,Books,2023-03-24 22:08:15
+Store Card,380.7,Clothing,2023-03-25 01:57:13
+Apple Pay,495.34,Electronics,2023-03-25 05:20:18
+Apple Pay,339.27,Clothing,2023-03-25 14:46:33
+PayPal,296.78,Sports & Outdoors,2023-03-25 18:04:27
+Debit Card,407.42,Electronics,2023-03-26 05:44:03
+Credit Card,328.19,Books,2023-03-26 07:16:45
+Debit Card,423.57,Sports & Outdoors,2023-03-26 11:05:27
+PayPal,114.44,Books,2023-03-26 11:30:31
+PayPal,483.69,Sports & Outdoors,2023-03-27 05:54:28
+Credit Card,382.3,Electronics,2023-03-27 15:40:56
+Debit Card,220.88,Books,2023-03-28 04:25:04
+Debit Card,321.96,Electronics,2023-03-28 14:23:24
+Google Wallet,499.65,Books,2023-03-29 03:38:44
+Apple Pay,81.34,Books,2023-03-30 02:47:52
+Debit Card,301.0,Home & Garden,2023-03-30 07:01:40
+Debit Card,166.18,Clothing,2023-03-30 09:25:01
+Google Wallet,49.71,Sports & Outdoors,2023-03-30 11:26:55
+Google Wallet,323.09,Books,2023-03-31 04:43:03
+PayPal,442.53,Clothing,2023-04-02 08:23:24
+PayPal,21.08,Clothing,2023-04-02 14:06:22
+Debit Card,342.92,Sports & Outdoors,2023-04-02 16:20:02
+Debit Card,21.7,Home & Garden,2023-04-02 16:52:00
+PayPal,264.96,Clothing,2023-04-03 21:05:15
+PayPal,51.13,Electronics,2023-04-03 23:05:36
+Debit Card,328.31,Home & Garden,2023-04-04 03:21:38
+Debit Card,85.58,Sports & Outdoors,2023-04-04 10:13:21
+Apple Pay,323.24,Home & Garden,2023-04-04 15:02:39
+PayPal,145.76,Clothing,2023-04-05 02:29:13
+Debit Card,362.83,Home & Garden,2023-04-05 08:23:55
+Credit Card,178.58,Clothing,2023-04-05 23:19:10
+PayPal,418.6,Books,2023-04-06 07:56:45
+Credit Card,243.82,Home & Garden,2023-04-06 08:33:39
+Credit Card,457.41,Home & Garden,2023-04-06 09:27:52
+PayPal,219.87,Home & Garden,2023-04-06 12:24:31
+Apple Pay,249.56,Sports & Outdoors,2023-04-06 22:14:27
+Google Wallet,315.72,Sports & Outdoors,2023-04-07 07:45:55
+Apple Pay,291.78,Electronics,2023-04-07 09:08:12
+Debit Card,295.65,Sports & Outdoors,2023-04-08 03:12:22
+Apple Pay,407.31,Electronics,2023-04-08 04:40:47
+Apple Pay,340.53,Home & Garden,2023-04-08 09:18:33
+Credit Card,45.96,Electronics,2023-04-08 12:54:41
+Apple Pay,147.36,Home & Garden,2023-04-09 23:31:46
+Store Card,277.84,Books,2023-04-10 01:44:32
+PayPal,488.16,Books,2023-04-10 04:20:37
+Store Card,136.07,Books,2023-04-10 11:59:59
+PayPal,403.49,Electronics,2023-04-10 17:55:33
+PayPal,100.39,Sports & Outdoors,2023-04-11 00:36:45
+PayPal,283.48,Sports & Outdoors,2023-04-11 06:50:19
+Credit Card,314.0,Books,2023-04-11 16:27:57
+PayPal,196.69,Clothing,2023-04-12 06:33:07
+Store Card,227.01,Sports & Outdoors,2023-04-12 14:14:10
+PayPal,162.14,Electronics,2023-04-12 22:12:07
+Google Wallet,42.03,Sports & Outdoors,2023-04-12 22:50:03
+Credit Card,433.26,Home & Garden,2023-04-13 07:17:44
+Apple Pay,229.88,Home & Garden,2023-04-13 08:11:59
+Google Wallet,324.83,Books,2023-04-13 15:52:23
+Debit Card,245.27,Clothing,2023-04-14 03:14:01
+Credit Card,98.45,Sports & Outdoors,2023-04-14 07:32:46
+Google Wallet,67.21,Home & Garden,2023-04-14 13:34:38
+Debit Card,160.59,Books,2023-04-14 20:09:39
+Debit Card,180.0,Books,2023-04-14 22:04:42
+Google Wallet,163.39,Books,2023-04-16 09:10:57
+Google Wallet,429.15,Electronics,2023-04-16 09:19:45
+Store Card,155.98,Electronics,2023-04-16 20:35:15
+Store Card,320.76,Electronics,2023-04-17 06:22:39
+PayPal,415.57,Home & Garden,2023-04-17 09:17:36
+Apple Pay,416.35,Electronics,2023-04-18 02:36:44
+PayPal,228.18,Books,2023-04-18 04:55:57
+Apple Pay,239.23,Home & Garden,2023-04-18 12:42:18
+Debit Card,187.45,Sports & Outdoors,2023-04-18 18:51:07
+Apple Pay,495.87,Electronics,2023-04-19 19:46:51
+Apple Pay,387.59,Clothing,2023-04-21 20:44:35
+Google Wallet,474.21,Electronics,2023-04-22 10:26:59
+Debit Card,117.41,Books,2023-04-22 19:49:14
+Apple Pay,28.47,Books,2023-04-22 19:51:14
+Credit Card,14.99,Sports & Outdoors,2023-04-23 05:41:43
+PayPal,284.7,Clothing,2023-04-23 13:10:25
+Debit Card,150.17,Sports & Outdoors,2023-04-23 16:33:30
+PayPal,160.7,Books,2023-04-23 17:43:24
+Credit Card,19.85,Electronics,2023-04-23 21:47:29
+Google Wallet,57.94,Electronics,2023-04-24 09:32:12
+Debit Card,93.58,Clothing,2023-04-24 15:42:02
+Credit Card,418.28,Books,2023-04-24 23:44:19
+PayPal,82.88,Clothing,2023-04-25 04:42:39
+Debit Card,92.41,Sports & Outdoors,2023-04-25 11:18:46
+Google Wallet,426.96,Electronics,2023-04-26 03:41:35
+PayPal,417.47,Books,2023-04-26 10:53:48
+Apple Pay,233.44,Home & Garden,2023-04-26 21:24:45
+Google Wallet,344.43,Home & Garden,2023-04-27 00:31:14
+Credit Card,22.25,Sports & Outdoors,2023-04-28 02:12:29
+Debit Card,83.83,Books,2023-04-28 08:23:57
+Credit Card,432.73,Books,2023-04-28 17:26:28
+Debit Card,409.06,Home & Garden,2023-04-29 04:47:48
+Store Card,66.77,Sports & Outdoors,2023-04-30 04:12:53
+Apple Pay,257.13,Electronics,2023-05-01 02:09:48
+Debit Card,414.09,Books,2023-05-01 05:06:42
+PayPal,297.55,Clothing,2023-05-02 01:42:09
+Apple Pay,190.69,Clothing,2023-05-02 03:23:18
+Google Wallet,134.75,Sports & Outdoors,2023-05-02 14:59:49
+Credit Card,243.03,Home & Garden,2023-05-02 15:46:50
+Google Wallet,353.1,Books,2023-05-03 11:05:27
+PayPal,443.69,Electronics,2023-05-03 18:54:34
+Google Wallet,372.67,Electronics,2023-05-03 20:52:27
+Apple Pay,349.97,Home & Garden,2023-05-04 06:35:58
+Google Wallet,309.3,Home & Garden,2023-05-04 07:19:27
+Debit Card,393.71,Books,2023-05-04 08:36:12
+Debit Card,386.61,Books,2023-05-04 12:44:46
+Store Card,228.36,Sports & Outdoors,2023-05-05 08:32:18
+PayPal,267.04,Books,2023-05-05 20:14:57
+Credit Card,489.07,Home & Garden,2023-05-06 02:35:42
+Store Card,498.92,Electronics,2023-05-07 09:04:28
+PayPal,183.94,Sports & Outdoors,2023-05-08 02:36:28
+PayPal,249.19,Clothing,2023-05-08 16:11:49
+Credit Card,463.53,Sports & Outdoors,2023-05-08 23:31:40
+PayPal,154.23,Home & Garden,2023-05-09 01:40:10
+PayPal,107.23,Books,2023-05-09 07:01:42
+PayPal,98.07,Sports & Outdoors,2023-05-10 06:19:21
+Apple Pay,256.67,Electronics,2023-05-10 11:45:32
+Google Wallet,51.14,Sports & Outdoors,2023-05-11 01:58:42
+Debit Card,97.87,Books,2023-05-11 15:32:18
+Credit Card,472.17,Books,2023-05-11 15:34:51
+Apple Pay,301.26,Clothing,2023-05-11 15:56:19
+Google Wallet,43.18,Sports & Outdoors,2023-05-11 21:54:37
+Credit Card,449.34,Books,2023-05-12 06:52:13
+Google Wallet,391.7,Electronics,2023-05-12 08:12:46
+Apple Pay,292.94,Books,2023-05-12 12:58:58
+PayPal,329.94,Electronics,2023-05-12 17:37:32
+Google Wallet,372.95,Books,2023-05-13 07:53:16
+Google Wallet,144.64,Clothing,2023-05-14 03:10:27
+Apple Pay,470.76,Electronics,2023-05-14 03:14:04
+Store Card,184.04,Sports & Outdoors,2023-05-14 19:48:41
+Debit Card,342.41,Home & Garden,2023-05-14 22:37:33
+Credit Card,435.95,Electronics,2023-05-16 09:30:15
+PayPal,426.63,Clothing,2023-05-16 20:15:50
+Credit Card,496.21,Books,2023-05-17 15:49:34
+Google Wallet,339.91,Clothing,2023-05-17 19:52:11
+Apple Pay,296.43,Clothing,2023-05-17 20:30:51
+Apple Pay,456.19,Sports & Outdoors,2023-05-18 09:54:47
+PayPal,61.1,Clothing,2023-05-18 13:04:31
+Google Wallet,294.05,Books,2023-05-18 23:53:30
+Store Card,194.46,Sports & Outdoors,2023-05-19 06:17:17
+Apple Pay,344.58,Home & Garden,2023-05-19 06:45:41
+Apple Pay,40.96,Home & Garden,2023-05-19 11:20:35
+PayPal,435.18,Home & Garden,2023-05-20 07:42:02
+Credit Card,223.72,Home & Garden,2023-05-20 12:08:31
+Apple Pay,351.59,Sports & Outdoors,2023-05-21 13:41:47
+Debit Card,16.85,Books,2023-05-22 04:12:50
+PayPal,99.38,Clothing,2023-05-22 19:43:09
+PayPal,247.29,Clothing,2023-05-22 20:09:05
+Store Card,290.81,Home & Garden,2023-05-22 21:59:51
+Apple Pay,194.98,Clothing,2023-05-22 22:58:05
+Debit Card,362.0,Clothing,2023-05-23 00:51:15
+Credit Card,410.16,Electronics,2023-05-23 14:55:04
+Apple Pay,112.84,Home & Garden,2023-05-23 17:50:40
+PayPal,64.59,Electronics,2023-05-24 08:05:12
+Google Wallet,496.99,Books,2023-05-25 00:29:21
+Store Card,491.13,Sports & Outdoors,2023-05-25 01:05:29
+Debit Card,499.21,Home & Garden,2023-05-25 02:59:27
+PayPal,219.14,Clothing,2023-05-25 06:52:13
+Debit Card,166.57,Clothing,2023-05-25 12:27:10
+PayPal,289.86,Books,2023-05-25 19:49:57
+Credit Card,69.5,Clothing,2023-05-26 03:56:58
+PayPal,332.47,Sports & Outdoors,2023-05-26 10:03:47
+Store Card,395.65,Electronics,2023-05-26 17:50:20
+Google Wallet,390.46,Books,2023-05-27 04:00:44
+Google Wallet,350.62,Clothing,2023-05-27 05:33:54
+Store Card,265.53,Books,2023-05-27 12:40:41
+PayPal,462.77,Clothing,2023-05-28 01:49:45
+Apple Pay,313.12,Home & Garden,2023-05-28 05:05:00
+PayPal,228.39,Books,2023-05-28 05:13:54
+Debit Card,21.64,Home & Garden,2023-05-28 12:14:04
+Google Wallet,383.76,Electronics,2023-05-28 20:28:22
+Apple Pay,234.46,Home & Garden,2023-05-28 21:38:58
+Credit Card,199.87,Sports & Outdoors,2023-05-28 23:11:10
+PayPal,423.46,Sports & Outdoors,2023-05-29 05:48:54
+Store Card,408.91,Electronics,2023-05-29 05:54:28
+Credit Card,146.2,Home & Garden,2023-05-29 20:20:01
+Store Card,87.69,Clothing,2023-05-31 00:56:39
+Store Card,200.28,Books,2023-05-31 09:58:19
+Google Wallet,119.95,Sports & Outdoors,2023-06-01 06:11:22
+Debit Card,60.72,Clothing,2023-06-01 06:45:58
+Apple Pay,411.24,Home & Garden,2023-06-01 11:12:39
+Apple Pay,149.62,Electronics,2023-06-01 20:09:52
+Debit Card,390.43,Sports & Outdoors,2023-06-02 09:00:18
+Debit Card,152.3,Home & Garden,2023-06-03 02:15:18
+Credit Card,59.15,Clothing,2023-06-03 16:00:52
+PayPal,204.76,Home & Garden,2023-06-03 22:24:20
+PayPal,258.12,Clothing,2023-06-04 00:22:32
+Credit Card,62.01,Home & Garden,2023-06-04 22:04:00
+Debit Card,11.48,Electronics,2023-06-04 23:45:15
+Store Card,53.01,Home & Garden,2023-06-05 17:08:50
+Debit Card,289.18,Clothing,2023-06-05 19:56:10
+Apple Pay,237.69,Books,2023-06-06 03:10:12
+Debit Card,294.96,Books,2023-06-06 09:18:48
+Debit Card,279.28,Home & Garden,2023-06-06 13:35:14
+Debit Card,112.76,Clothing,2023-06-06 20:59:00
+Store Card,133.66,Electronics,2023-06-06 21:35:17
+Credit Card,377.5,Clothing,2023-06-07 05:31:09
+Debit Card,10.95,Books,2023-06-07 19:20:53
+Debit Card,79.89,Home & Garden,2023-06-08 04:20:05
+Credit Card,322.98,Clothing,2023-06-08 09:08:04
+Credit Card,377.85,Books,2023-06-08 20:54:13
+Debit Card,261.28,Electronics,2023-06-08 23:32:02
+PayPal,78.8,Books,2023-06-09 04:46:01
+Credit Card,140.94,Sports & Outdoors,2023-06-09 04:52:58
+Credit Card,261.2,Sports & Outdoors,2023-06-09 06:44:34
+Credit Card,97.08,Home & Garden,2023-06-10 10:12:26
+Debit Card,305.2,Books,2023-06-10 17:38:16
+Store Card,340.52,Home & Garden,2023-06-11 12:08:24
+Apple Pay,194.21,Clothing,2023-06-12 06:51:13
+PayPal,412.75,Books,2023-06-12 07:24:05
+Apple Pay,83.64,Electronics,2023-06-12 09:56:51
+PayPal,300.72,Home & Garden,2023-06-12 21:11:43
+Credit Card,27.31,Books,2023-06-13 00:05:40
+Debit Card,108.66,Electronics,2023-06-13 00:33:26
+Apple Pay,267.98,Sports & Outdoors,2023-06-14 02:02:28
+Google Wallet,229.22,Sports & Outdoors,2023-06-14 18:46:14
+Debit Card,474.95,Sports & Outdoors,2023-06-15 01:29:53
+Credit Card,236.3,Electronics,2023-06-15 06:51:51
+Store Card,282.01,Books,2023-06-15 09:53:42
+Apple Pay,476.06,Books,2023-06-15 15:46:57
+Credit Card,48.29,Sports & Outdoors,2023-06-16 04:51:10
+Google Wallet,311.86,Books,2023-06-16 16:17:17
+Debit Card,228.94,Home & Garden,2023-06-17 10:28:05
+Apple Pay,239.55,Books,2023-06-18 18:15:04
+Apple Pay,281.07,Electronics,2023-06-19 02:41:22
+Debit Card,477.74,Clothing,2023-06-19 17:59:40
+Credit Card,27.82,Electronics,2023-06-20 11:50:35
+Debit Card,192.59,Electronics,2023-06-21 11:49:11
+Credit Card,464.16,Home & Garden,2023-06-21 18:55:49
+Google Wallet,189.03,Electronics,2023-06-21 20:14:18
+PayPal,489.88,Sports & Outdoors,2023-06-21 22:14:44
+Apple Pay,325.85,Clothing,2023-06-21 22:23:43
+Store Card,40.53,Home & Garden,2023-06-22 16:54:45
+Google Wallet,261.02,Electronics,2023-06-22 21:00:45
+Credit Card,198.21,Home & Garden,2023-06-23 03:42:57
+Store Card,192.83,Sports & Outdoors,2023-06-23 18:34:24
+Store Card,54.05,Books,2023-06-23 19:05:55
+PayPal,479.86,Sports & Outdoors,2023-06-23 20:31:15
+PayPal,359.19,Electronics,2023-06-24 01:54:50
+PayPal,395.47,Clothing,2023-06-24 02:03:40
+Apple Pay,210.52,Clothing,2023-06-24 02:19:48
+PayPal,331.17,Books,2023-06-24 03:30:55
+Debit Card,197.24,Home & Garden,2023-06-24 07:45:26
+PayPal,297.07,Sports & Outdoors,2023-06-24 13:54:20
+Debit Card,388.34,Electronics,2023-06-24 17:42:18
+PayPal,324.48,Home & Garden,2023-06-24 17:47:43
+Credit Card,364.31,Books,2023-06-24 20:21:05
+Google Wallet,289.17,Electronics,2023-06-25 07:59:32
+Credit Card,261.55,Sports & Outdoors,2023-06-25 17:01:19
+Credit Card,179.98,Clothing,2023-06-25 21:32:51
+Store Card,236.3,Home & Garden,2023-06-26 20:14:08
+Credit Card,454.22,Sports & Outdoors,2023-06-27 02:41:21
+Google Wallet,38.7,Books,2023-06-27 16:00:47
+Store Card,268.31,Sports & Outdoors,2023-06-28 00:38:55
+Credit Card,36.68,Books,2023-06-28 13:17:24
+Store Card,56.55,Home & Garden,2023-06-28 22:10:01
+Store Card,230.6,Home & Garden,2023-07-01 05:07:01
+Credit Card,386.11,Clothing,2023-07-01 05:21:47
+Apple Pay,249.31,Home & Garden,2023-07-01 12:52:11
+Store Card,102.65,Books,2023-07-01 13:37:04
+PayPal,14.63,Electronics,2023-07-01 14:40:40
+Credit Card,460.07,Sports & Outdoors,2023-07-01 20:30:58
+Store Card,211.37,Books,2023-07-01 20:31:09
+Apple Pay,156.58,Electronics,2023-07-01 23:03:21
+Credit Card,123.91,Clothing,2023-07-02 03:34:15
+PayPal,299.44,Clothing,2023-07-02 04:55:48
+Store Card,182.26,Electronics,2023-07-02 10:26:49
+Credit Card,287.07,Home & Garden,2023-07-02 15:10:34
+Apple Pay,455.61,Home & Garden,2023-07-02 16:57:35
+Debit Card,175.65,Electronics,2023-07-02 19:52:53
+Credit Card,334.7,Books,2023-07-02 21:30:29
+Google Wallet,57.79,Books,2023-07-03 12:46:44
+Credit Card,454.81,Home & Garden,2023-07-04 03:02:13
+Credit Card,365.13,Sports & Outdoors,2023-07-04 04:04:22
+Google Wallet,294.52,Clothing,2023-07-04 04:32:11
+Store Card,430.73,Sports & Outdoors,2023-07-04 06:57:55
+Credit Card,424.73,Clothing,2023-07-04 14:13:50
+PayPal,53.51,Sports & Outdoors,2023-07-04 15:59:05
+Apple Pay,279.11,Sports & Outdoors,2023-07-05 00:33:04
+PayPal,416.23,Books,2023-07-05 14:46:13
+Apple Pay,99.03,Sports & Outdoors,2023-07-06 02:23:49
+PayPal,55.13,Electronics,2023-07-06 03:17:48
+PayPal,462.03,Books,2023-07-06 22:00:35
+Apple Pay,288.08,Home & Garden,2023-07-07 09:44:48
+Store Card,321.15,Electronics,2023-07-07 17:06:18
+Apple Pay,212.12,Electronics,2023-07-08 04:24:39
+Debit Card,319.18,Clothing,2023-07-08 19:02:20
+Store Card,108.52,Clothing,2023-07-08 20:18:03
+Credit Card,476.66,Electronics,2023-07-09 03:39:23
+Google Wallet,340.48,Books,2023-07-09 03:49:38
+PayPal,346.13,Home & Garden,2023-07-09 07:15:19
+Google Wallet,142.82,Sports & Outdoors,2023-07-09 18:29:20
+Debit Card,406.59,Home & Garden,2023-07-10 20:56:31
+Apple Pay,494.42,Electronics,2023-07-12 01:00:43
+Google Wallet,187.12,Home & Garden,2023-07-12 15:55:59
+Debit Card,450.65,Sports & Outdoors,2023-07-13 05:57:56
+PayPal,194.87,Books,2023-07-13 13:19:41
+Store Card,201.26,Clothing,2023-07-13 16:52:48
+Debit Card,24.48,Electronics,2023-07-13 21:02:41
+PayPal,16.54,Books,2023-07-13 23:18:40
+Credit Card,67.34,Electronics,2023-07-14 08:19:44
+Store Card,213.62,Sports & Outdoors,2023-07-14 09:20:44
+PayPal,131.44,Sports & Outdoors,2023-07-14 14:02:08
+Debit Card,351.3,Clothing,2023-07-15 10:20:05
+PayPal,291.14,Electronics,2023-07-15 14:43:51
+Apple Pay,294.25,Home & Garden,2023-07-17 06:29:05
+PayPal,420.25,Sports & Outdoors,2023-07-17 22:36:10
+PayPal,264.57,Clothing,2023-07-18 06:19:46
+Apple Pay,72.92,Sports & Outdoors,2023-07-19 21:34:00
+Store Card,47.86,Books,2023-07-20 08:34:38
+Apple Pay,463.92,Clothing,2023-07-20 09:15:44
+Store Card,128.85,Electronics,2023-07-20 18:00:16
+Store Card,431.74,Home & Garden,2023-07-20 22:44:57
+Credit Card,97.9,Sports & Outdoors,2023-07-21 04:47:52
+Google Wallet,393.45,Home & Garden,2023-07-21 11:38:46
+Google Wallet,129.74,Home & Garden,2023-07-22 11:35:22
+Store Card,478.92,Electronics,2023-07-23 07:54:26
+Google Wallet,101.98,Books,2023-07-23 09:10:14
+Debit Card,53.08,Sports & Outdoors,2023-07-23 15:59:01
+Credit Card,216.66,Electronics,2023-07-23 18:57:39
+Debit Card,87.61,Home & Garden,2023-07-24 02:31:46
+Google Wallet,381.4,Home & Garden,2023-07-24 11:44:08
+PayPal,349.24,Sports & Outdoors,2023-07-24 13:59:43
+Credit Card,155.22,Books,2023-07-24 15:00:08
+Debit Card,202.09,Books,2023-07-24 23:48:14
+Google Wallet,341.27,Clothing,2023-07-26 06:15:48
+Debit Card,456.66,Sports & Outdoors,2023-07-28 06:33:36
+PayPal,149.53,Clothing,2023-07-30 03:38:52
+Google Wallet,80.77,Electronics,2023-07-30 06:23:31
+PayPal,386.93,Home & Garden,2023-07-30 18:52:07
+Google Wallet,440.76,Books,2023-07-31 18:23:35
+Debit Card,85.82,Clothing,2023-07-31 19:06:47
+Apple Pay,399.01,Clothing,2023-08-01 01:27:13
+Credit Card,259.05,Electronics,2023-08-01 04:49:00
+PayPal,67.65,Books,2023-08-01 11:13:25
+Apple Pay,294.92,Books,2023-08-01 22:50:59
+Debit Card,325.21,Electronics,2023-08-01 23:02:50
+Debit Card,234.93,Clothing,2023-08-03 00:11:13
+Apple Pay,275.33,Electronics,2023-08-03 09:32:55
+PayPal,233.34,Sports & Outdoors,2023-08-03 12:19:50
+Debit Card,170.33,Electronics,2023-08-03 15:53:15
+Credit Card,194.13,Clothing,2023-08-03 19:19:02
+Google Wallet,428.62,Electronics,2023-08-04 03:31:50
+Credit Card,125.66,Books,2023-08-04 07:38:41
+Credit Card,387.74,Books,2023-08-05 09:44:20
+Credit Card,79.95,Home & Garden,2023-08-05 12:19:39
+Credit Card,439.7,Books,2023-08-05 13:05:24
+Store Card,317.78,Electronics,2023-08-05 21:34:33
+Apple Pay,474.99,Books,2023-08-05 22:10:35
+Apple Pay,334.35,Sports & Outdoors,2023-08-06 11:23:03
+Google Wallet,183.81,Sports & Outdoors,2023-08-06 14:12:18
+Store Card,26.75,Clothing,2023-08-06 23:30:49
+Store Card,368.98,Books,2023-08-07 08:40:51
+Debit Card,120.8,Clothing,2023-08-07 16:19:28
+Store Card,17.37,Clothing,2023-08-07 20:24:19
+Debit Card,101.87,Sports & Outdoors,2023-08-08 22:58:17
+Google Wallet,41.18,Electronics,2023-08-09 03:04:59
+Credit Card,169.98,Books,2023-08-09 03:38:55
+PayPal,133.28,Sports & Outdoors,2023-08-09 04:48:31
+Credit Card,192.04,Home & Garden,2023-08-09 16:45:19
+PayPal,50.64,Electronics,2023-08-09 17:19:38
+Debit Card,436.56,Sports & Outdoors,2023-08-09 17:33:21
+Debit Card,61.45,Sports & Outdoors,2023-08-09 21:15:37
+Google Wallet,43.95,Books,2023-08-09 22:23:26
+Store Card,314.57,Sports & Outdoors,2023-08-10 04:54:42
+Debit Card,391.58,Books,2023-08-10 05:51:16
+Google Wallet,59.98,Clothing,2023-08-11 04:31:49
+Apple Pay,189.54,Clothing,2023-08-11 06:04:25
+Apple Pay,212.96,Home & Garden,2023-08-11 21:45:30
+Store Card,11.75,Sports & Outdoors,2023-08-11 22:31:27
+PayPal,468.84,Clothing,2023-08-12 07:55:27
+Credit Card,56.0,Books,2023-08-12 16:39:23
+Apple Pay,230.81,Electronics,2023-08-12 23:20:28
+Store Card,448.74,Electronics,2023-08-13 11:12:33
+PayPal,159.26,Electronics,2023-08-13 20:27:08
+Debit Card,33.08,Clothing,2023-08-13 22:07:38
+Apple Pay,68.11,Sports & Outdoors,2023-08-13 22:26:26
+Google Wallet,238.13,Electronics,2023-08-13 22:47:29
+Debit Card,235.99,Clothing,2023-08-14 11:16:59
+PayPal,251.61,Books,2023-08-14 17:48:25
+Debit Card,250.8,Home & Garden,2023-08-14 18:36:40
+Apple Pay,227.02,Electronics,2023-08-15 13:44:11
+Credit Card,60.2,Home & Garden,2023-08-16 03:12:59
+Google Wallet,236.7,Sports & Outdoors,2023-08-16 14:28:06
+Store Card,135.41,Sports & Outdoors,2023-08-16 15:53:37
+PayPal,26.48,Books,2023-08-16 23:46:16
+Google Wallet,53.71,Sports & Outdoors,2023-08-17 08:03:03
+PayPal,22.16,Home & Garden,2023-08-17 11:39:46
+Credit Card,309.18,Electronics,2023-08-18 06:59:04
+Store Card,266.45,Home & Garden,2023-08-18 11:46:14
+Google Wallet,107.58,Home & Garden,2023-08-18 18:39:38
+Apple Pay,102.58,Electronics,2023-08-18 18:46:04
+PayPal,167.74,Clothing,2023-08-19 14:28:03
+Store Card,316.9,Home & Garden,2023-08-19 16:06:07
+Google Wallet,422.36,Electronics,2023-08-19 18:22:00
+Credit Card,425.62,Home & Garden,2023-08-19 22:24:19
+Store Card,325.99,Clothing,2023-08-20 10:25:44
+PayPal,133.52,Electronics,2023-08-20 20:27:51
+Debit Card,145.54,Books,2023-08-21 04:17:20
+Google Wallet,11.16,Home & Garden,2023-08-21 08:33:31
+Store Card,23.61,Electronics,2023-08-21 13:08:41
+Google Wallet,172.88,Clothing,2023-08-21 13:57:47
+Debit Card,280.27,Sports & Outdoors,2023-08-21 15:19:07
+PayPal,297.62,Electronics,2023-08-21 17:01:58
+PayPal,79.14,Electronics,2023-08-22 23:27:02
+Credit Card,23.98,Sports & Outdoors,2023-08-23 02:20:55
+Google Wallet,156.54,Clothing,2023-08-23 18:20:11
+Store Card,483.79,Electronics,2023-08-23 21:31:57
+Google Wallet,192.82,Home & Garden,2023-08-24 11:56:24
+Store Card,408.83,Sports & Outdoors,2023-08-24 13:55:23
+Debit Card,353.72,Sports & Outdoors,2023-08-24 14:37:42
+Credit Card,349.78,Electronics,2023-08-24 15:49:30
+Google Wallet,128.91,Clothing,2023-08-24 20:07:30
+PayPal,46.25,Clothing,2023-08-25 12:34:22
+PayPal,271.64,Sports & Outdoors,2023-08-25 19:37:47
+Apple Pay,177.46,Books,2023-08-26 09:28:15
+Store Card,231.68,Electronics,2023-08-26 10:39:13
+Apple Pay,487.39,Electronics,2023-08-27 00:34:59
+Apple Pay,291.22,Clothing,2023-08-27 04:56:14
+PayPal,223.61,Books,2023-08-27 11:02:57
+Google Wallet,393.26,Sports & Outdoors,2023-08-27 14:17:01
+PayPal,134.18,Books,2023-08-27 14:54:42
+Google Wallet,61.3,Clothing,2023-08-27 23:00:05
+Credit Card,375.67,Sports & Outdoors,2023-08-29 00:50:06
+Debit Card,176.41,Home & Garden,2023-08-29 03:41:21
+Apple Pay,452.93,Electronics,2023-08-29 04:08:18
+Credit Card,164.11,Electronics,2023-08-29 13:20:45
+Credit Card,341.94,Clothing,2023-08-29 20:29:05
+Debit Card,296.44,Home & Garden,2023-08-29 21:12:04
+PayPal,96.79,Home & Garden,2023-08-30 11:34:27
+Credit Card,291.44,Clothing,2023-08-30 20:06:33
+PayPal,484.9,Home & Garden,2023-08-30 21:38:07
+Credit Card,137.24,Books,2023-08-31 10:32:23
+Credit Card,62.98,Electronics,2023-09-01 02:30:54
+Credit Card,338.14,Clothing,2023-09-01 22:27:08
+Apple Pay,327.54,Sports & Outdoors,2023-09-02 05:02:58
+PayPal,28.39,Sports & Outdoors,2023-09-02 10:09:52
+Google Wallet,333.58,Electronics,2023-09-02 18:48:41
+Google Wallet,321.47,Home & Garden,2023-09-02 23:52:37
+Apple Pay,151.21,Books,2023-09-03 13:07:45
+PayPal,384.94,Electronics,2023-09-03 15:29:39
+Debit Card,136.67,Sports & Outdoors,2023-09-03 19:57:23
+Debit Card,205.93,Sports & Outdoors,2023-09-04 02:39:31
+Debit Card,237.8,Electronics,2023-09-04 07:37:42
+PayPal,310.35,Sports & Outdoors,2023-09-05 04:59:57
+Apple Pay,352.54,Home & Garden,2023-09-05 15:11:03
+Store Card,137.23,Books,2023-09-05 17:02:47
+Credit Card,75.32,Sports & Outdoors,2023-09-06 07:44:06
+Debit Card,439.23,Sports & Outdoors,2023-09-06 16:29:31
+Debit Card,463.52,Electronics,2023-09-06 19:04:41
+Apple Pay,21.23,Electronics,2023-09-06 20:42:54
+Google Wallet,487.41,Sports & Outdoors,2023-09-07 02:58:05
+Credit Card,325.0,Home & Garden,2023-09-07 13:23:56
+Google Wallet,302.77,Home & Garden,2023-09-07 21:07:48
+Debit Card,335.77,Clothing,2023-09-07 21:38:13
+Debit Card,137.47,Clothing,2023-09-07 23:08:27
+Debit Card,386.65,Sports & Outdoors,2023-09-08 00:07:33
+Credit Card,53.01,Home & Garden,2023-09-08 02:05:54
+Apple Pay,19.86,Sports & Outdoors,2023-09-08 02:45:35
+Debit Card,344.85,Clothing,2023-09-08 05:53:33
+Google Wallet,150.48,Electronics,2023-09-08 10:07:23
+PayPal,428.27,Sports & Outdoors,2023-09-08 18:26:50
+Store Card,432.69,Books,2023-09-09 02:42:27
+Apple Pay,276.61,Electronics,2023-09-09 09:43:57
+Google Wallet,59.42,Clothing,2023-09-10 12:26:55
+Google Wallet,405.4,Home & Garden,2023-09-11 12:40:07
+PayPal,63.04,Clothing,2023-09-11 20:13:36
+Apple Pay,461.81,Sports & Outdoors,2023-09-11 22:38:42
+PayPal,235.88,Sports & Outdoors,2023-09-12 01:31:49
+PayPal,213.71,Clothing,2023-09-13 01:04:55
+Google Wallet,214.58,Home & Garden,2023-09-13 10:18:40
+Debit Card,84.16,Books,2023-09-13 21:23:51
+Google Wallet,480.81,Home & Garden,2023-09-14 00:01:48
+Credit Card,161.6,Books,2023-09-14 13:14:05
+Google Wallet,367.49,Clothing,2023-09-14 14:55:34
+Apple Pay,249.61,Sports & Outdoors,2023-09-14 15:52:17
+Apple Pay,419.27,Clothing,2023-09-15 05:46:26
+Store Card,330.33,Books,2023-09-15 14:45:55
+Store Card,485.91,Clothing,2023-09-15 20:43:23
+Debit Card,217.39,Clothing,2023-09-17 01:56:07
+Credit Card,43.11,Sports & Outdoors,2023-09-17 08:08:07
+Apple Pay,321.08,Home & Garden,2023-09-17 09:43:03
+PayPal,202.23,Electronics,2023-09-17 19:52:37
+Apple Pay,255.02,Clothing,2023-09-18 03:23:19
+Credit Card,232.36,Home & Garden,2023-09-18 04:56:58
+PayPal,341.54,Home & Garden,2023-09-18 05:07:38
+Google Wallet,494.34,Clothing,2023-09-18 05:34:36
+PayPal,235.93,Electronics,2023-09-18 12:55:44
+Google Wallet,224.48,Books,2023-09-18 15:09:05
+Store Card,53.44,Home & Garden,2023-09-18 16:26:24
+Store Card,397.01,Sports & Outdoors,2023-09-18 20:13:25
+Apple Pay,399.37,Sports & Outdoors,2023-09-18 23:01:30
+PayPal,360.33,Home & Garden,2023-09-19 11:57:41
+Debit Card,356.6,Books,2023-09-20 00:50:36
+Apple Pay,273.33,Books,2023-09-20 21:54:00
+Debit Card,330.75,Sports & Outdoors,2023-09-20 22:34:51
+PayPal,294.03,Electronics,2023-09-21 03:39:27
+Debit Card,270.55,Books,2023-09-21 13:48:17
+Google Wallet,267.97,Clothing,2023-09-21 14:46:58
+PayPal,158.44,Books,2023-09-21 16:19:09
+Apple Pay,278.44,Books,2023-09-22 08:47:30
+Debit Card,17.89,Books,2023-09-22 20:14:06
+PayPal,375.01,Sports & Outdoors,2023-09-23 04:20:40
+Store Card,477.1,Clothing,2023-09-23 19:34:00
+Debit Card,34.13,Electronics,2023-09-24 00:02:33
+Store Card,322.13,Sports & Outdoors,2023-09-24 08:21:55
+Debit Card,75.28,Electronics,2023-09-24 08:52:00
+Google Wallet,162.15,Home & Garden,2023-09-24 09:35:29
+Store Card,437.33,Clothing,2023-09-24 09:50:59
+Store Card,349.25,Electronics,2023-09-24 14:10:43
+Credit Card,396.0,Sports & Outdoors,2023-09-24 20:55:10
+Debit Card,141.9,Sports & Outdoors,2023-09-24 23:04:06
+Credit Card,97.35,Sports & Outdoors,2023-09-24 23:13:42
+Google Wallet,334.18,Sports & Outdoors,2023-09-25 06:41:16
+Credit Card,342.83,Books,2023-09-25 10:28:35
+PayPal,198.23,Electronics,2023-09-25 14:47:59
+Debit Card,463.44,Clothing,2023-09-26 02:35:49
+Debit Card,392.04,Books,2023-09-26 10:20:44
+Debit Card,81.83,Sports & Outdoors,2023-09-26 15:11:33
+Credit Card,390.91,Sports & Outdoors,2023-09-26 16:13:32
+Debit Card,406.16,Books,2023-09-26 18:06:25
+Store Card,166.41,Home & Garden,2023-09-26 20:53:24
+Credit Card,39.69,Books,2023-09-29 22:49:31
+Debit Card,424.36,Clothing,2023-09-30 12:34:11
+PayPal,494.97,Home & Garden,2023-09-30 12:59:48
+Google Wallet,33.59,Books,2023-09-30 21:34:26
+Apple Pay,396.51,Books,2023-09-30 23:04:43
+Google Wallet,338.32,Books,2023-10-01 02:33:55
+Google Wallet,401.83,Clothing,2023-10-01 14:04:26
+Debit Card,66.08,Electronics,2023-10-01 16:13:18
+PayPal,165.24,Sports & Outdoors,2023-10-01 23:21:06
+Store Card,93.49,Books,2023-10-02 03:32:26
+Store Card,121.97,Books,2023-10-02 05:00:37
+Apple Pay,439.27,Home & Garden,2023-10-02 15:35:36
+Google Wallet,79.92,Books,2023-10-02 17:14:19

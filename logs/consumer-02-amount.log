@@ -1,0 +1,11 @@
+2023-10-03 12:44:39,644.consumer-02-amount.INFO ==================================================
+2023-10-03 12:44:39,645.consumer-02-amount.INFO Today is 2023-10-03 at 12:44 PM
+2023-10-03 12:44:39,645.consumer-02-amount.INFO Running on: nt Windows 10
+2023-10-03 12:44:39,645.consumer-02-amount.INFO Python version:  3.11.1
+2023-10-03 12:44:39,645.consumer-02-amount.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
+2023-10-03 12:44:39,646.consumer-02-amount.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
+2023-10-03 12:44:39,646.consumer-02-amount.INFO ==================================================
+2023-10-03 12:44:39,658.consumer-02-amount.INFO  [*] Ready for work. To exit, press CTRL+C
+2023-10-03 12:44:54,028.consumer-02-amount.INFO  [x] Received 2022-10-08 17:14:00,462.16
+2023-10-03 12:44:54,028.consumer-02-amount.WARNING Received a non-numeric value as the price. Skipping price update.
+2023-10-03 12:44:54,028.consumer-02-amount.INFO [X] Payment Method Received and Processed.

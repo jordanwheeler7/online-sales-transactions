@@ -112,4 +112,4 @@ if __name__ == "__main__":
         # ask the user if they'd like to open the RabbitMQ Admin site
         offer_rabbitmq_admin_site()
     # send the message to the queue
-    send_message("localhost","01-method","02-amount","03-category","online_transactions.csv")  
+    send_message("localhost","01-method","02-amount","03-category","data_online_transactions.csv")  
