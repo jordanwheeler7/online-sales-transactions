@@ -10,7 +10,7 @@ from util_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
 # Initialize the original price as None
-original_price = 0.00
+original_price = float(0.00)
 
 # Define a callback function to be called when a message is received
 def amount_callback(ch, method, properties, body):
@@ -28,12 +28,12 @@ def amount_callback(ch, method, properties, body):
 
     # Check if the payment method is "Store Card"
     if payment_method == "Store Card":
-        if original_price is not None:
+        if original_price is not 0.00:
             # Apply a 10% discount
             discount = 0.10 * original_price
             new_price = original_price - discount
 
-            # Check if the new price is greater than $450.00
+            # Check if the new price is greater than $425.00
             if new_price > float(425.00):
                 logger.info(f"Original price was ${original_price:.2f} but you received a discount for using your store card, and the new price is ${new_price:.2f}. Sending email alert.")
                 email_subject = "Store Card Purchase Alert"
@@ -46,7 +46,7 @@ def amount_callback(ch, method, properties, body):
 
     # If the message contains the price, update the original_price
     try:
-        price = float(body.decode())
+        payment_amount = float(body.decode())
         original_price = price  # Update the original_price as a float
     except ValueError:
         logger.warning("Received a non-numeric value as the price. Skipping price update.")

@@ -1,4 +1,4 @@
-Payment Method,Payment Amount,Category,Timestamp
+Payment_Method,Payment_Amount,Category,Timestamp
 Credit Card,422.95,Electronics,2022-10-03 06:59:59
 Apple Pay,45.5,Books,2022-10-03 08:35:55
 Google Wallet,336.09,Electronics,2022-10-03 17:00:25
