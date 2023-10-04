@@ -65,7 +65,7 @@ Running the producer and consumers in the terminal windows.
 ![Running Scripts](Images/terminals_working.png)
 
 ### Email Alerts
-Email alert that is sent when the purchase amount is over $425.00.
+Email alert that is sent when a store card is used and the purchase amount is over $425.00.
 ![Email Alert](Images/email_alert.png)
 
 
