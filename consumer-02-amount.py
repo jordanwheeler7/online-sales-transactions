@@ -52,11 +52,11 @@ def amount_callback(ch, method, properties, body):
                 logger.info(f"A Store Card has been used. The new price is {formatted_new_payment}.")
                 # Create Email Parts
                 email_subject = "Store Card Used"
-                email_body = f"A Store Card has been used at {payment_timestamp}. The original price was {formatted_message2}The new price is {formatted_new_payment}."
+                email_body = f"A Store Card has been used at {payment_timestamp}. The original price was {formatted_message2}. The new price is {formatted_new_payment}."
                 createAndSendEmailAlert(email_subject, email_body)
                 logger.info("Email Sent")
             
-            logger.info(f"Store Card Was Used. New price is {formatted_new_payment}.")
+            logger.info(f"[X] Store Card Was Used. New price is {formatted_new_payment}.")
         ch.basic_ack(delivery_tag=method.delivery_tag)
     
     except Exception as e:
