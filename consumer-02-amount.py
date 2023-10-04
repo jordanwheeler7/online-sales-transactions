@@ -1,3 +1,14 @@
+"""
+    This program listens for work messages contiously. 
+    Start multiple versions to add more workers.  
+
+    Author: Jordan Wheeler
+    Date: 2023-10-04
+      
+"""
+
+
+
 import pika
 import sys
 
@@ -27,7 +38,7 @@ def amount_callback(ch, method, properties, body):
     message1 = message[0]
     message2 = message[1]
     formatted_message2 = "${:.2f}".format(float(message2))
-    logger.info(f" [x] At {message1} a purchase was made for {formatted_message2}")
+    logger.info(f" [x] At {message1} a purchase has been made in the amount of {formatted_message2}")
     
     payment_amount_change = []
     try: 
@@ -49,7 +60,7 @@ def amount_callback(ch, method, properties, body):
         
         # Check if alert is true and payment is greater than $425.00
             if alert_message == True and new_payment >= 425.00:
-                logger.info(f"A Store Card has been used. The new price is {formatted_new_payment}.")
+                logger.warning(f"A Store Card has been used. The new price is {formatted_new_payment}.")
                 # Create Email Parts
                 email_subject = "Store Card Used"
                 email_body = f"A Store Card has been used at {payment_timestamp}. The original price was {formatted_message2}. The new price is {formatted_new_payment}."

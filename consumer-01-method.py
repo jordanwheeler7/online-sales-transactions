@@ -1,13 +1,22 @@
+"""
+    This program listens for work messages contiously. 
+    Start multiple versions to add more workers.  
+
+    Author: Jordan Wheeler
+    Date: 2023-10-04
+      
+"""
+
 import pika
 import sys
-import csv
-
-
 
 # Configure logging
 from util_logger import setup_logger
 
 logger, logname = setup_logger(__file__)
+
+# Global Variable for Category Counts
+payment_method_counts = {}
 
 # Define a callback function to be called when a message is received
 def method_callback(ch, method, properties, body):
@@ -17,18 +26,31 @@ def method_callback(ch, method, properties, body):
     """
     # Decode the binary message body to a string
     logger.info(f" [x] Received {body.decode()}")
+    print()
 
     # Extract the payment method from the message
     payment_method = body.decode()
+    
+    payment_method_split = payment_method.split(",")
+    payment_method = payment_method_split[1]
+    
+    # Increment the count for the payment method
+    if payment_method in payment_method_counts:
+        payment_method_counts[payment_method] += 1
+    else:
+        payment_method_counts[payment_method] = 1
+    logger.info("[X] Number of times a payment method has been used: %s", payment_method_counts)
+    print()
 
-    # Check if the payment method is "In Store Card"
-    if payment_method == "In Store Card":
+    # Check if the payment method is "Store Card"
+    if payment_method == "Store Card":
         # Apply a 10% discount
-        logger.info("Applying a 10 percent discount for In Store Card purchase.")
+        logger.warning("Apply a 10 percent discount for using a Store Card to make a purchase.")
+        print()
         # Add your discount logic here
 
     # Send Confirmation Report
-    logger.info("[X] Payment Method Received and Processed.")
+    logger.info(f"[X] {payment_method} Received and Processed.")
     # Delete Message from Queue after Processing
     ch.basic_ack(delivery_tag=method.delivery_tag)
 

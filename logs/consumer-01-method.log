@@ -1,38 +1,152 @@
-2023-10-03 12:38:30,872.consumer-01-method.INFO ==================================================
-2023-10-03 12:38:30,872.consumer-01-method.INFO Today is 2023-10-03 at 12:38 PM
-2023-10-03 12:38:30,872.consumer-01-method.INFO Running on: nt Windows 10
-2023-10-03 12:38:30,872.consumer-01-method.INFO Python version:  3.11.1
-2023-10-03 12:38:30,873.consumer-01-method.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
-2023-10-03 12:38:30,873.consumer-01-method.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
-2023-10-03 12:38:30,873.consumer-01-method.INFO ==================================================
-2023-10-03 12:38:30,886.consumer-01-method.INFO  [*] Ready for work. To exit, press CTRL+C
-2023-10-03 12:38:30,886.consumer-01-method.INFO  [x] Received 2022-10-03 06:59:59,Credit Card
-2023-10-03 12:38:30,886.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:38:30,886.consumer-01-method.INFO  [x] Received 2022-10-03 08:35:55,Apple Pay
-2023-10-03 12:38:30,887.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:38:53,990.consumer-01-method.INFO  [x] Received 2022-10-03 17:00:25,Google Wallet
-2023-10-03 12:38:53,990.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:39:23,992.consumer-01-method.INFO  [x] Received 2022-10-03 20:33:43,Credit Card
-2023-10-03 12:39:23,992.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:39:53,994.consumer-01-method.INFO  [x] Received 2022-10-04 04:19:45,Credit Card
-2023-10-03 12:39:53,994.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:40:23,995.consumer-01-method.INFO  [x] Received 2022-10-04 12:28:50,PayPal
-2023-10-03 12:40:23,995.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:40:53,999.consumer-01-method.INFO  [x] Received 2022-10-04 13:58:42,Credit Card
-2023-10-03 12:40:54,001.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:41:24,003.consumer-01-method.INFO  [x] Received 2022-10-06 01:19:13,Debit Card
-2023-10-03 12:41:24,003.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:41:54,004.consumer-01-method.INFO  [x] Received 2022-10-06 07:31:55,Credit Card
-2023-10-03 12:41:54,004.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:42:24,006.consumer-01-method.INFO  [x] Received 2022-10-06 17:16:55,Credit Card
-2023-10-03 12:42:24,006.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:42:54,008.consumer-01-method.INFO  [x] Received 2022-10-07 00:48:33,PayPal
-2023-10-03 12:42:54,008.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:43:24,009.consumer-01-method.INFO  [x] Received 2022-10-07 03:13:43,Debit Card
-2023-10-03 12:43:24,009.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:43:54,011.consumer-01-method.INFO  [x] Received 2022-10-08 02:16:12,Debit Card
-2023-10-03 12:43:54,012.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:44:24,013.consumer-01-method.INFO  [x] Received 2022-10-08 09:25:23,Google Wallet
-2023-10-03 12:44:24,013.consumer-01-method.INFO [X] Payment Method Received and Processed.
-2023-10-03 12:44:54,028.consumer-01-method.INFO  [x] Received 2022-10-08 17:14:00,PayPal
-2023-10-03 12:44:54,028.consumer-01-method.INFO [X] Payment Method Received and Processed.
+2023-10-04 11:45:05,956.consumer-01-method.INFO ==================================================
+2023-10-04 11:45:05,957.consumer-01-method.INFO Today is 2023-10-04 at 11:45 AM
+2023-10-04 11:45:05,957.consumer-01-method.INFO Running on: nt Windows 10
+2023-10-04 11:45:05,957.consumer-01-method.INFO Python version:  3.11.1
+2023-10-04 11:45:05,957.consumer-01-method.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
+2023-10-04 11:45:05,957.consumer-01-method.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
+2023-10-04 11:45:05,957.consumer-01-method.INFO ==================================================
+2023-10-04 11:45:05,968.consumer-01-method.INFO  [*] Ready for work. To exit, press CTRL+C
+2023-10-04 11:45:05,969.consumer-01-method.INFO  [x] Received 2022-10-03 06:59:59,Credit Card
+2023-10-04 11:45:05,969.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 1}
+2023-10-04 11:45:05,969.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:45:10,122.consumer-01-method.INFO  [x] Received 2022-10-03 08:35:55,Apple Pay
+2023-10-04 11:45:10,124.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 1, 'Apple Pay': 1}
+2023-10-04 11:45:10,124.consumer-01-method.INFO [X] Apple Pay Received and Processed.
+2023-10-04 11:45:15,125.consumer-01-method.INFO  [x] Received 2022-10-03 17:00:25,Google Wallet
+2023-10-04 11:45:15,125.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 1, 'Apple Pay': 1, 'Google Wallet': 1}
+2023-10-04 11:45:15,125.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:45:20,128.consumer-01-method.INFO  [x] Received 2022-10-03 20:33:43,Credit Card
+2023-10-04 11:45:20,128.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 2, 'Apple Pay': 1, 'Google Wallet': 1}
+2023-10-04 11:45:20,128.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:45:25,129.consumer-01-method.INFO  [x] Received 2022-10-04 04:19:45,Credit Card
+2023-10-04 11:45:25,129.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 3, 'Apple Pay': 1, 'Google Wallet': 1}
+2023-10-04 11:45:25,129.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:45:30,130.consumer-01-method.INFO  [x] Received 2022-10-04 12:28:50,PayPal
+2023-10-04 11:45:30,131.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 3, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 1}
+2023-10-04 11:45:30,131.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:45:35,132.consumer-01-method.INFO  [x] Received 2022-10-04 13:58:42,Credit Card
+2023-10-04 11:45:35,132.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 4, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 1}
+2023-10-04 11:45:35,132.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:45:40,135.consumer-01-method.INFO  [x] Received 2022-10-06 01:19:13,Debit Card
+2023-10-04 11:45:40,135.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 4, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 1, 'Debit Card': 1}
+2023-10-04 11:45:40,135.consumer-01-method.INFO [X] Debit Card Received and Processed.
+2023-10-04 11:45:45,136.consumer-01-method.INFO  [x] Received 2022-10-06 07:31:55,Credit Card
+2023-10-04 11:45:45,137.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 5, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 1, 'Debit Card': 1}
+2023-10-04 11:45:45,137.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:45:50,143.consumer-01-method.INFO  [x] Received 2022-10-06 17:16:55,Credit Card
+2023-10-04 11:45:50,143.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 1, 'Debit Card': 1}
+2023-10-04 11:45:50,144.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:45:55,139.consumer-01-method.INFO  [x] Received 2022-10-07 00:48:33,PayPal
+2023-10-04 11:45:55,139.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 2, 'Debit Card': 1}
+2023-10-04 11:45:55,140.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:46:00,141.consumer-01-method.INFO  [x] Received 2022-10-07 03:13:43,Debit Card
+2023-10-04 11:46:00,141.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 2, 'Debit Card': 2}
+2023-10-04 11:46:00,141.consumer-01-method.INFO [X] Debit Card Received and Processed.
+2023-10-04 11:46:05,143.consumer-01-method.INFO  [x] Received 2022-10-08 02:16:12,Debit Card
+2023-10-04 11:46:05,143.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 1, 'PayPal': 2, 'Debit Card': 3}
+2023-10-04 11:46:05,143.consumer-01-method.INFO [X] Debit Card Received and Processed.
+2023-10-04 11:46:10,145.consumer-01-method.INFO  [x] Received 2022-10-08 09:25:23,Google Wallet
+2023-10-04 11:46:10,145.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 2, 'Debit Card': 3}
+2023-10-04 11:46:10,145.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:46:15,147.consumer-01-method.INFO  [x] Received 2022-10-08 17:14:00,PayPal
+2023-10-04 11:46:15,147.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 3, 'Debit Card': 3}
+2023-10-04 11:46:15,148.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:46:20,149.consumer-01-method.INFO  [x] Received 2022-10-08 19:33:35,Store Card
+2023-10-04 11:46:20,149.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 3, 'Debit Card': 3, 'Store Card': 1}
+2023-10-04 11:46:20,150.consumer-01-method.WARNING Apply a 10 percent discount for using a Store Card to make a purchase.
+2023-10-04 11:46:20,150.consumer-01-method.INFO [X] Store Card Received and Processed.
+2023-10-04 11:46:25,151.consumer-01-method.INFO  [x] Received 2022-10-08 23:38:31,PayPal
+2023-10-04 11:46:25,151.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 4, 'Debit Card': 3, 'Store Card': 1}
+2023-10-04 11:46:25,152.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:46:30,153.consumer-01-method.INFO  [x] Received 2022-10-09 04:49:23,PayPal
+2023-10-04 11:46:30,154.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 5, 'Debit Card': 3, 'Store Card': 1}
+2023-10-04 11:46:30,154.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:46:35,154.consumer-01-method.INFO  [x] Received 2022-10-09 13:26:03,PayPal
+2023-10-04 11:46:35,154.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 6, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 1}
+2023-10-04 11:46:35,156.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:46:40,158.consumer-01-method.INFO  [x] Received 2022-10-10 11:28:50,Credit Card
+2023-10-04 11:46:40,158.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 7, 'Apple Pay': 1, 'Google Wallet': 2, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 1}
+2023-10-04 11:46:40,158.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:46:45,157.consumer-01-method.INFO  [x] Received 2022-10-11 02:53:40,Google Wallet
+2023-10-04 11:46:45,159.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 7, 'Apple Pay': 1, 'Google Wallet': 3, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 1}
+2023-10-04 11:46:45,159.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:46:50,159.consumer-01-method.INFO  [x] Received 2022-10-11 05:15:33,Store Card
+2023-10-04 11:46:50,161.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 7, 'Apple Pay': 1, 'Google Wallet': 3, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:46:50,161.consumer-01-method.WARNING Apply a 10 percent discount for using a Store Card to make a purchase.
+2023-10-04 11:46:50,161.consumer-01-method.INFO [X] Store Card Received and Processed.
+2023-10-04 11:46:55,163.consumer-01-method.INFO  [x] Received 2022-10-11 16:01:19,Credit Card
+2023-10-04 11:46:55,163.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 8, 'Apple Pay': 1, 'Google Wallet': 3, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:46:55,163.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:47:00,164.consumer-01-method.INFO  [x] Received 2022-10-11 17:58:12,Apple Pay
+2023-10-04 11:47:00,165.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 8, 'Apple Pay': 2, 'Google Wallet': 3, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:00,165.consumer-01-method.INFO [X] Apple Pay Received and Processed.
+2023-10-04 11:47:05,166.consumer-01-method.INFO  [x] Received 2022-10-12 02:42:15,Credit Card
+2023-10-04 11:47:05,166.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 9, 'Apple Pay': 2, 'Google Wallet': 3, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:05,166.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:47:10,169.consumer-01-method.INFO  [x] Received 2022-10-12 20:06:36,Google Wallet
+2023-10-04 11:47:10,169.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 9, 'Apple Pay': 2, 'Google Wallet': 4, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:10,169.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:47:15,170.consumer-01-method.INFO  [x] Received 2022-10-13 14:48:25,Google Wallet
+2023-10-04 11:47:15,170.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 9, 'Apple Pay': 2, 'Google Wallet': 5, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:15,171.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:47:20,171.consumer-01-method.INFO  [x] Received 2022-10-13 15:11:14,Google Wallet
+2023-10-04 11:47:20,171.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 9, 'Apple Pay': 2, 'Google Wallet': 6, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:20,173.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:47:25,174.consumer-01-method.INFO  [x] Received 2022-10-13 23:46:57,Credit Card
+2023-10-04 11:47:25,174.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 10, 'Apple Pay': 2, 'Google Wallet': 6, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:25,174.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:47:30,177.consumer-01-method.INFO  [x] Received 2022-10-14 02:44:23,Apple Pay
+2023-10-04 11:47:30,177.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 10, 'Apple Pay': 3, 'Google Wallet': 6, 'PayPal': 6, 'Debit Card': 3, 'Store Card': 2}
+2023-10-04 11:47:30,177.consumer-01-method.INFO [X] Apple Pay Received and Processed.
+2023-10-04 11:47:35,177.consumer-01-method.INFO  [x] Received 2022-10-14 16:10:24,Debit Card
+2023-10-04 11:47:35,178.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 10, 'Apple Pay': 3, 'Google Wallet': 6, 'PayPal': 6, 'Debit Card': 4, 'Store Card': 2}
+2023-10-04 11:47:35,178.consumer-01-method.INFO [X] Debit Card Received and Processed.
+2023-10-04 11:47:40,178.consumer-01-method.INFO  [x] Received 2022-10-14 23:13:36,Credit Card
+2023-10-04 11:47:40,178.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 11, 'Apple Pay': 3, 'Google Wallet': 6, 'PayPal': 6, 'Debit Card': 4, 'Store Card': 2}
+2023-10-04 11:47:40,180.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:47:45,180.consumer-01-method.INFO  [x] Received 2022-10-15 04:30:28,PayPal
+2023-10-04 11:47:45,180.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 11, 'Apple Pay': 3, 'Google Wallet': 6, 'PayPal': 7, 'Debit Card': 4, 'Store Card': 2}
+2023-10-04 11:47:45,181.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:47:50,182.consumer-01-method.INFO  [x] Received 2022-10-15 12:22:49,Credit Card
+2023-10-04 11:47:50,182.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 3, 'Google Wallet': 6, 'PayPal': 7, 'Debit Card': 4, 'Store Card': 2}
+2023-10-04 11:47:50,182.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:47:55,183.consumer-01-method.INFO  [x] Received 2022-10-15 20:57:19,Debit Card
+2023-10-04 11:47:55,183.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 3, 'Google Wallet': 6, 'PayPal': 7, 'Debit Card': 5, 'Store Card': 2}
+2023-10-04 11:47:55,184.consumer-01-method.INFO [X] Debit Card Received and Processed.
+2023-10-04 11:48:00,185.consumer-01-method.INFO  [x] Received 2022-10-16 01:40:49,Apple Pay
+2023-10-04 11:48:00,185.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 4, 'Google Wallet': 6, 'PayPal': 7, 'Debit Card': 5, 'Store Card': 2}
+2023-10-04 11:48:00,185.consumer-01-method.INFO [X] Apple Pay Received and Processed.
+2023-10-04 11:48:05,186.consumer-01-method.INFO  [x] Received 2022-10-16 07:41:52,Google Wallet
+2023-10-04 11:48:05,186.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 4, 'Google Wallet': 7, 'PayPal': 7, 'Debit Card': 5, 'Store Card': 2}
+2023-10-04 11:48:05,186.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:48:10,187.consumer-01-method.INFO  [x] Received 2022-10-16 22:15:16,Store Card
+2023-10-04 11:48:10,187.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 4, 'Google Wallet': 7, 'PayPal': 7, 'Debit Card': 5, 'Store Card': 3}
+2023-10-04 11:48:10,189.consumer-01-method.WARNING Apply a 10 percent discount for using a Store Card to make a purchase.
+2023-10-04 11:48:10,189.consumer-01-method.INFO [X] Store Card Received and Processed.
+2023-10-04 11:48:15,189.consumer-01-method.INFO  [x] Received 2022-10-17 00:56:36,Store Card
+2023-10-04 11:48:15,191.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 4, 'Google Wallet': 7, 'PayPal': 7, 'Debit Card': 5, 'Store Card': 4}
+2023-10-04 11:48:15,191.consumer-01-method.WARNING Apply a 10 percent discount for using a Store Card to make a purchase.
+2023-10-04 11:48:15,191.consumer-01-method.INFO [X] Store Card Received and Processed.
+2023-10-04 11:48:20,191.consumer-01-method.INFO  [x] Received 2022-10-17 02:46:53,Google Wallet
+2023-10-04 11:48:20,192.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 4, 'Google Wallet': 8, 'PayPal': 7, 'Debit Card': 5, 'Store Card': 4}
+2023-10-04 11:48:20,192.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:48:25,193.consumer-01-method.INFO  [x] Received 2022-10-17 05:16:58,PayPal
+2023-10-04 11:48:25,193.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 12, 'Apple Pay': 4, 'Google Wallet': 8, 'PayPal': 8, 'Debit Card': 5, 'Store Card': 4}
+2023-10-04 11:48:25,194.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:48:30,194.consumer-01-method.INFO  [x] Received 2022-10-17 09:33:13,Credit Card
+2023-10-04 11:48:30,194.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 13, 'Apple Pay': 4, 'Google Wallet': 8, 'PayPal': 8, 'Debit Card': 5, 'Store Card': 4}
+2023-10-04 11:48:30,194.consumer-01-method.INFO [X] Credit Card Received and Processed.
+2023-10-04 11:48:35,196.consumer-01-method.INFO  [x] Received 2022-10-17 22:54:14,Store Card
+2023-10-04 11:48:35,196.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 13, 'Apple Pay': 4, 'Google Wallet': 8, 'PayPal': 8, 'Debit Card': 5, 'Store Card': 5}
+2023-10-04 11:48:35,197.consumer-01-method.WARNING Apply a 10 percent discount for using a Store Card to make a purchase.
+2023-10-04 11:48:35,197.consumer-01-method.INFO [X] Store Card Received and Processed.
+2023-10-04 11:48:40,198.consumer-01-method.INFO  [x] Received 2022-10-18 02:15:35,Google Wallet
+2023-10-04 11:48:40,198.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 13, 'Apple Pay': 4, 'Google Wallet': 9, 'PayPal': 8, 'Debit Card': 5, 'Store Card': 5}
+2023-10-04 11:48:40,198.consumer-01-method.INFO [X] Google Wallet Received and Processed.
+2023-10-04 11:48:45,200.consumer-01-method.INFO  [x] Received 2022-10-18 06:31:14,PayPal
+2023-10-04 11:48:45,200.consumer-01-method.INFO [X] Number of times a payment method has been used: {'Credit Card': 13, 'Apple Pay': 4, 'Google Wallet': 9, 'PayPal': 9, 'Debit Card': 5, 'Store Card': 5}
+2023-10-04 11:48:45,200.consumer-01-method.INFO [X] PayPal Received and Processed.
+2023-10-04 11:48:50,207.consumer-01-method.INFO User interrupted the continuous listening process.
+2023-10-04 11:48:50,207.consumer-01-method.INFO 
+Closing connection. Goodbye.
+

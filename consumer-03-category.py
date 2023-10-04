@@ -1,3 +1,13 @@
+"""
+    This program listens for work messages contiously. 
+    Start multiple versions to add more workers.  
+
+    Author: Jordan Wheeler
+    Date: 2023-10-04
+      
+"""
+
+
 import pika
 import sys
 
@@ -8,6 +18,15 @@ from util_logger import setup_logger
 
 logger, logname = setup_logger(__file__)
 
+# Global Variable for Category Counts
+category_count = {
+    "Electronics": 0,
+    "Clothing": 0,
+    "Home & Garden": 0,
+    "Sports & Outdoors": 0,
+    "Books": 0,
+}
+
 # Define a callback function to be called when a message is received
 def category_callback(ch, method, properties, body):
     """ Define behavior on getting a message.
@@ -17,14 +36,46 @@ def category_callback(ch, method, properties, body):
     # Decode the binary message body to a string
     logger.info(f" [x] Received {body.decode()}")
 
-    # Extract the payment method from the message
-    category = body.decode()
+      # Extract the payment method from the message
+    category_message = body.decode()
+    # Split Message
+    category_split = category_message.split(",")
+    
+    # Check if the message has the expected format (timestamp,category)
+    if len(category_split) == 2:
+        timestamp, category = category_split
+    else:
+        logger.info(" [X] Invalid Category Message Format")
+        # Delete Message from Queue after Processing
+        ch.basic_ack(delivery_tag=method.delivery_tag)
+        return
+
+    # Create Percentage of Category
+    try:
+        # Check if category is in the category_count dictionary
+        if category in category_count:
+            # Increment the count for the category
+            category_count[category] += 1
+        else:
+            logger.info(f" [X] Invalid Category: {category}")
+
+        # Calculate the total number of purchases across all categories
+        total_purchases = sum(category_count.values())
+
+        # Log the progress for each category and its percentage of purchases
+        for cat, count in category_count.items():
+            percent_processed = (count / total_purchases) * 100
+            formatted_category_percentage = "{:.2f}%".format(percent_processed)
+            logger.info(f" [X] {cat} is purchased {formatted_category_percentage} of the time.")
+        
+    except Exception as e:
+        logger.error(" [X] An error has occurred.")
+        logger.error(f" [X] Error: {e}")
 
     # Send Confirmation Report
     logger.info("[X] Category Has Been Received and Processed.")
     # Delete Message from Queue after Processing
     ch.basic_ack(delivery_tag=method.delivery_tag)
-
 # Define a main function to run the program
 def main(hn: str = "localhost", qn: str = "task_queue"):
     """ Continuously listen for task messages on a named queue."""

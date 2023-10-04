@@ -1,70 +1,64 @@
-2023-10-03 22:35:27,123.consumer-02-amount.INFO ==================================================
-2023-10-03 22:35:27,124.consumer-02-amount.INFO Today is 2023-10-03 at 10:35 PM
-2023-10-03 22:35:27,124.consumer-02-amount.INFO Running on: nt Windows 10
-2023-10-03 22:35:27,124.consumer-02-amount.INFO Python version:  3.11.1
-2023-10-03 22:35:27,124.consumer-02-amount.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
-2023-10-03 22:35:27,124.consumer-02-amount.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
-2023-10-03 22:35:27,124.consumer-02-amount.INFO ==================================================
-2023-10-03 22:35:27,145.consumer-02-amount.INFO  [*] Ready for work. To exit, press CTRL+C
-2023-10-03 22:35:27,145.consumer-02-amount.INFO  [x] At 2022-10-03 06:59:59 a purchase was made for $422.95
-2023-10-03 22:35:27,146.consumer-02-amount.INFO  [x] At 2022-10-03 08:35:55 a purchase was made for $45.50
-2023-10-03 22:35:28,311.consumer-02-amount.INFO  [x] At 2022-10-03 17:00:25 a purchase was made for $336.09
-2023-10-03 22:35:31,312.consumer-02-amount.INFO  [x] At 2022-10-03 20:33:43 a purchase was made for $496.34
-2023-10-03 22:35:34,315.consumer-02-amount.INFO  [x] At 2022-10-04 04:19:45 a purchase was made for $268.79
-2023-10-03 22:35:37,318.consumer-02-amount.INFO  [x] At 2022-10-04 12:28:50 a purchase was made for $134.72
-2023-10-03 22:35:40,321.consumer-02-amount.INFO  [x] At 2022-10-04 13:58:42 a purchase was made for $75.75
-2023-10-03 22:35:43,323.consumer-02-amount.INFO  [x] At 2022-10-06 01:19:13 a purchase was made for $496.03
-2023-10-03 22:35:46,326.consumer-02-amount.INFO  [x] At 2022-10-06 07:31:55 a purchase was made for $469.83
-2023-10-03 22:35:49,328.consumer-02-amount.INFO  [x] At 2022-10-06 17:16:55 a purchase was made for $66.31
-2023-10-03 22:35:52,331.consumer-02-amount.INFO  [x] At 2022-10-07 00:48:33 a purchase was made for $136.84
-2023-10-03 22:35:55,334.consumer-02-amount.INFO  [x] At 2022-10-07 03:13:43 a purchase was made for $138.49
-2023-10-03 22:35:58,337.consumer-02-amount.INFO  [x] At 2022-10-08 02:16:12 a purchase was made for $352.42
-2023-10-03 22:36:01,339.consumer-02-amount.INFO  [x] At 2022-10-08 09:25:23 a purchase was made for $165.40
-2023-10-03 22:36:04,341.consumer-02-amount.INFO  [x] At 2022-10-08 17:14:00 a purchase was made for $462.16
-2023-10-03 22:36:07,345.consumer-02-amount.INFO  [x] At 2022-10-08 19:33:35 a purchase was made for $479.98
-2023-10-03 22:36:07,345.consumer-02-amount.INFO A Store Card has been used. The new price is $431.98.
-2023-10-03 22:36:09,366.consumer-02-amount.INFO Email Sent
-2023-10-03 22:36:09,366.consumer-02-amount.INFO Store Card Was Used. New price is $431.98.
-2023-10-03 22:36:10,347.consumer-02-amount.INFO  [x] At 2022-10-08 23:38:31 a purchase was made for $123.72
-2023-10-03 22:36:13,349.consumer-02-amount.INFO  [x] At 2022-10-09 04:49:23 a purchase was made for $471.57
-2023-10-03 22:36:16,352.consumer-02-amount.INFO  [x] At 2022-10-09 13:26:03 a purchase was made for $86.00
-2023-10-03 22:36:19,354.consumer-02-amount.INFO  [x] At 2022-10-10 11:28:50 a purchase was made for $423.48
-2023-10-03 22:36:22,356.consumer-02-amount.INFO  [x] At 2022-10-11 02:53:40 a purchase was made for $14.62
-2023-10-03 22:36:25,360.consumer-02-amount.INFO  [x] At 2022-10-11 05:15:33 a purchase was made for $450.55
-2023-10-03 22:36:25,360.consumer-02-amount.INFO Store Card Was Used. New price is $405.50.
-2023-10-03 22:36:28,363.consumer-02-amount.INFO  [x] At 2022-10-11 16:01:19 a purchase was made for $45.08
-2023-10-03 22:36:31,364.consumer-02-amount.INFO  [x] At 2022-10-11 17:58:12 a purchase was made for $178.87
-2023-10-03 22:36:34,367.consumer-02-amount.INFO  [x] At 2022-10-12 02:42:15 a purchase was made for $352.95
-2023-10-03 22:36:37,369.consumer-02-amount.INFO  [x] At 2022-10-12 20:06:36 a purchase was made for $132.98
-2023-10-03 22:36:40,373.consumer-02-amount.INFO  [x] At 2022-10-13 14:48:25 a purchase was made for $370.91
-2023-10-03 22:36:43,376.consumer-02-amount.INFO  [x] At 2022-10-13 15:11:14 a purchase was made for $284.69
-2023-10-03 22:36:46,379.consumer-02-amount.INFO  [x] At 2022-10-13 23:46:57 a purchase was made for $348.49
-2023-10-03 22:36:49,381.consumer-02-amount.INFO  [x] At 2022-10-14 02:44:23 a purchase was made for $249.77
-2023-10-03 22:36:52,384.consumer-02-amount.INFO  [x] At 2022-10-14 16:10:24 a purchase was made for $475.24
-2023-10-03 22:36:55,388.consumer-02-amount.INFO  [x] At 2022-10-14 23:13:36 a purchase was made for $348.99
-2023-10-03 22:36:58,390.consumer-02-amount.INFO  [x] At 2022-10-15 04:30:28 a purchase was made for $72.11
-2023-10-03 22:37:01,392.consumer-02-amount.INFO  [x] At 2022-10-15 12:22:49 a purchase was made for $350.96
-2023-10-03 22:37:04,394.consumer-02-amount.INFO  [x] At 2022-10-15 20:57:19 a purchase was made for $481.23
-2023-10-03 22:37:07,398.consumer-02-amount.INFO  [x] At 2022-10-16 01:40:49 a purchase was made for $380.62
-2023-10-03 22:37:10,400.consumer-02-amount.INFO  [x] At 2022-10-16 07:41:52 a purchase was made for $319.00
-2023-10-03 22:37:13,404.consumer-02-amount.INFO  [x] At 2022-10-16 22:15:16 a purchase was made for $79.01
-2023-10-03 22:37:13,404.consumer-02-amount.INFO Store Card Was Used. New price is $71.11.
-2023-10-03 22:37:16,406.consumer-02-amount.INFO  [x] At 2022-10-17 00:56:36 a purchase was made for $351.52
-2023-10-03 22:37:16,406.consumer-02-amount.INFO Store Card Was Used. New price is $316.37.
-2023-10-03 22:37:19,409.consumer-02-amount.INFO  [x] At 2022-10-17 02:46:53 a purchase was made for $309.71
-2023-10-03 22:37:22,411.consumer-02-amount.INFO  [x] At 2022-10-17 05:16:58 a purchase was made for $144.25
-2023-10-03 22:37:25,414.consumer-02-amount.INFO  [x] At 2022-10-17 09:33:13 a purchase was made for $339.27
-2023-10-03 22:37:28,417.consumer-02-amount.INFO  [x] At 2022-10-17 22:54:14 a purchase was made for $451.14
-2023-10-03 22:37:28,417.consumer-02-amount.INFO Store Card Was Used. New price is $406.03.
-2023-10-03 22:37:31,419.consumer-02-amount.INFO  [x] At 2022-10-18 02:15:35 a purchase was made for $435.10
-2023-10-03 22:37:34,422.consumer-02-amount.INFO  [x] At 2022-10-18 06:31:14 a purchase was made for $343.41
-2023-10-03 22:37:37,423.consumer-02-amount.INFO  [x] At 2022-10-18 09:01:28 a purchase was made for $369.93
-2023-10-03 22:37:40,427.consumer-02-amount.INFO  [x] At 2022-10-18 13:23:29 a purchase was made for $77.26
-2023-10-03 22:37:40,427.consumer-02-amount.INFO Store Card Was Used. New price is $69.53.
-2023-10-03 22:37:43,429.consumer-02-amount.INFO  [x] At 2022-10-18 13:44:14 a purchase was made for $444.63
-2023-10-03 22:37:46,432.consumer-02-amount.INFO  [x] At 2022-10-18 19:00:07 a purchase was made for $113.42
-2023-10-03 22:37:49,434.consumer-02-amount.INFO  [x] At 2022-10-18 23:41:49 a purchase was made for $418.20
-2023-10-03 22:37:52,437.consumer-02-amount.INFO User interrupted the continuous listening process.
-2023-10-03 22:37:52,437.consumer-02-amount.INFO 
+2023-10-04 11:45:07,070.consumer-02-amount.INFO ==================================================
+2023-10-04 11:45:07,071.consumer-02-amount.INFO Today is 2023-10-04 at 11:45 AM
+2023-10-04 11:45:07,071.consumer-02-amount.INFO Running on: nt Windows 10
+2023-10-04 11:45:07,071.consumer-02-amount.INFO Python version:  3.11.1
+2023-10-04 11:45:07,071.consumer-02-amount.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
+2023-10-04 11:45:07,071.consumer-02-amount.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
+2023-10-04 11:45:07,071.consumer-02-amount.INFO ==================================================
+2023-10-04 11:45:07,082.consumer-02-amount.INFO  [*] Ready for work. To exit, press CTRL+C
+2023-10-04 11:45:07,083.consumer-02-amount.INFO  [x] At 2022-10-03 06:59:59 a purchase has been made in the amount of $422.95
+2023-10-04 11:45:10,124.consumer-02-amount.INFO  [x] At 2022-10-03 08:35:55 a purchase has been made in the amount of $45.50
+2023-10-04 11:45:15,125.consumer-02-amount.INFO  [x] At 2022-10-03 17:00:25 a purchase has been made in the amount of $336.09
+2023-10-04 11:45:20,128.consumer-02-amount.INFO  [x] At 2022-10-03 20:33:43 a purchase has been made in the amount of $496.34
+2023-10-04 11:45:25,129.consumer-02-amount.INFO  [x] At 2022-10-04 04:19:45 a purchase has been made in the amount of $268.79
+2023-10-04 11:45:30,130.consumer-02-amount.INFO  [x] At 2022-10-04 12:28:50 a purchase has been made in the amount of $134.72
+2023-10-04 11:45:35,132.consumer-02-amount.INFO  [x] At 2022-10-04 13:58:42 a purchase has been made in the amount of $75.75
+2023-10-04 11:45:40,135.consumer-02-amount.INFO  [x] At 2022-10-06 01:19:13 a purchase has been made in the amount of $496.03
+2023-10-04 11:45:45,136.consumer-02-amount.INFO  [x] At 2022-10-06 07:31:55 a purchase has been made in the amount of $469.83
+2023-10-04 11:45:50,143.consumer-02-amount.INFO  [x] At 2022-10-06 17:16:55 a purchase has been made in the amount of $66.31
+2023-10-04 11:45:55,140.consumer-02-amount.INFO  [x] At 2022-10-07 00:48:33 a purchase has been made in the amount of $136.84
+2023-10-04 11:46:00,141.consumer-02-amount.INFO  [x] At 2022-10-07 03:13:43 a purchase has been made in the amount of $138.49
+2023-10-04 11:46:05,143.consumer-02-amount.INFO  [x] At 2022-10-08 02:16:12 a purchase has been made in the amount of $352.42
+2023-10-04 11:46:10,145.consumer-02-amount.INFO  [x] At 2022-10-08 09:25:23 a purchase has been made in the amount of $165.40
+2023-10-04 11:46:15,147.consumer-02-amount.INFO  [x] At 2022-10-08 17:14:00 a purchase has been made in the amount of $462.16
+2023-10-04 11:46:20,149.consumer-02-amount.INFO  [x] At 2022-10-08 19:33:35 a purchase has been made in the amount of $479.98
+2023-10-04 11:46:20,149.consumer-02-amount.WARNING A Store Card has been used. The new price is $431.98.
+2023-10-04 11:46:22,520.consumer-02-amount.INFO Email Sent
+2023-10-04 11:46:22,520.consumer-02-amount.INFO [X] Store Card Was Used. New price is $431.98.
+2023-10-04 11:46:25,151.consumer-02-amount.INFO  [x] At 2022-10-08 23:38:31 a purchase has been made in the amount of $123.72
+2023-10-04 11:46:30,154.consumer-02-amount.INFO  [x] At 2022-10-09 04:49:23 a purchase has been made in the amount of $471.57
+2023-10-04 11:46:35,154.consumer-02-amount.INFO  [x] At 2022-10-09 13:26:03 a purchase has been made in the amount of $86.00
+2023-10-04 11:46:40,158.consumer-02-amount.INFO  [x] At 2022-10-10 11:28:50 a purchase has been made in the amount of $423.48
+2023-10-04 11:46:45,159.consumer-02-amount.INFO  [x] At 2022-10-11 02:53:40 a purchase has been made in the amount of $14.62
+2023-10-04 11:46:50,161.consumer-02-amount.INFO  [x] At 2022-10-11 05:15:33 a purchase has been made in the amount of $450.55
+2023-10-04 11:46:50,161.consumer-02-amount.INFO [X] Store Card Was Used. New price is $405.50.
+2023-10-04 11:46:55,163.consumer-02-amount.INFO  [x] At 2022-10-11 16:01:19 a purchase has been made in the amount of $45.08
+2023-10-04 11:47:00,164.consumer-02-amount.INFO  [x] At 2022-10-11 17:58:12 a purchase has been made in the amount of $178.87
+2023-10-04 11:47:05,166.consumer-02-amount.INFO  [x] At 2022-10-12 02:42:15 a purchase has been made in the amount of $352.95
+2023-10-04 11:47:10,169.consumer-02-amount.INFO  [x] At 2022-10-12 20:06:36 a purchase has been made in the amount of $132.98
+2023-10-04 11:47:15,170.consumer-02-amount.INFO  [x] At 2022-10-13 14:48:25 a purchase has been made in the amount of $370.91
+2023-10-04 11:47:20,171.consumer-02-amount.INFO  [x] At 2022-10-13 15:11:14 a purchase has been made in the amount of $284.69
+2023-10-04 11:47:25,174.consumer-02-amount.INFO  [x] At 2022-10-13 23:46:57 a purchase has been made in the amount of $348.49
+2023-10-04 11:47:30,177.consumer-02-amount.INFO  [x] At 2022-10-14 02:44:23 a purchase has been made in the amount of $249.77
+2023-10-04 11:47:35,178.consumer-02-amount.INFO  [x] At 2022-10-14 16:10:24 a purchase has been made in the amount of $475.24
+2023-10-04 11:47:40,178.consumer-02-amount.INFO  [x] At 2022-10-14 23:13:36 a purchase has been made in the amount of $348.99
+2023-10-04 11:47:45,180.consumer-02-amount.INFO  [x] At 2022-10-15 04:30:28 a purchase has been made in the amount of $72.11
+2023-10-04 11:47:50,182.consumer-02-amount.INFO  [x] At 2022-10-15 12:22:49 a purchase has been made in the amount of $350.96
+2023-10-04 11:47:55,183.consumer-02-amount.INFO  [x] At 2022-10-15 20:57:19 a purchase has been made in the amount of $481.23
+2023-10-04 11:48:00,185.consumer-02-amount.INFO  [x] At 2022-10-16 01:40:49 a purchase has been made in the amount of $380.62
+2023-10-04 11:48:05,186.consumer-02-amount.INFO  [x] At 2022-10-16 07:41:52 a purchase has been made in the amount of $319.00
+2023-10-04 11:48:10,187.consumer-02-amount.INFO  [x] At 2022-10-16 22:15:16 a purchase has been made in the amount of $79.01
+2023-10-04 11:48:10,189.consumer-02-amount.INFO [X] Store Card Was Used. New price is $71.11.
+2023-10-04 11:48:15,191.consumer-02-amount.INFO  [x] At 2022-10-17 00:56:36 a purchase has been made in the amount of $351.52
+2023-10-04 11:48:15,191.consumer-02-amount.INFO [X] Store Card Was Used. New price is $316.37.
+2023-10-04 11:48:20,192.consumer-02-amount.INFO  [x] At 2022-10-17 02:46:53 a purchase has been made in the amount of $309.71
+2023-10-04 11:48:25,193.consumer-02-amount.INFO  [x] At 2022-10-17 05:16:58 a purchase has been made in the amount of $144.25
+2023-10-04 11:48:30,194.consumer-02-amount.INFO  [x] At 2022-10-17 09:33:13 a purchase has been made in the amount of $339.27
+2023-10-04 11:48:35,196.consumer-02-amount.INFO  [x] At 2022-10-17 22:54:14 a purchase has been made in the amount of $451.14
+2023-10-04 11:48:35,197.consumer-02-amount.INFO [X] Store Card Was Used. New price is $406.03.
+2023-10-04 11:48:40,198.consumer-02-amount.INFO  [x] At 2022-10-18 02:15:35 a purchase has been made in the amount of $435.10
+2023-10-04 11:48:45,200.consumer-02-amount.INFO  [x] At 2022-10-18 06:31:14 a purchase has been made in the amount of $343.41
+2023-10-04 11:48:50,207.consumer-02-amount.INFO User interrupted the continuous listening process.
+2023-10-04 11:48:50,207.consumer-02-amount.INFO 
 Closing connection. Goodbye.
 

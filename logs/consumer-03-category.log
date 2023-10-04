@@ -1,30 +1,327 @@
-2023-10-03 21:27:06,241.consumer-03-category.INFO ==================================================
-2023-10-03 21:27:06,241.consumer-03-category.INFO Today is 2023-10-03 at 09:27 PM
-2023-10-03 21:27:06,242.consumer-03-category.INFO Running on: nt Windows 10
-2023-10-03 21:27:06,242.consumer-03-category.INFO Python version:  3.11.1
-2023-10-03 21:27:06,242.consumer-03-category.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
-2023-10-03 21:27:06,242.consumer-03-category.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
-2023-10-03 21:27:06,243.consumer-03-category.INFO ==================================================
-2023-10-03 21:27:06,262.consumer-03-category.INFO  [*] Ready for work. To exit, press CTRL+C
-2023-10-03 21:27:06,262.consumer-03-category.INFO  [x] Received 2022-10-03 06:59:59,Electronics
-2023-10-03 21:27:06,262.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:27:06,262.consumer-03-category.INFO  [x] Received 2022-10-03 08:35:55,Books
-2023-10-03 21:27:06,262.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:27:06,263.consumer-03-category.INFO  [x] Received 2022-10-03 17:00:25,Electronics
-2023-10-03 21:27:06,263.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:27:21,775.consumer-03-category.INFO  [x] Received 2022-10-03 20:33:43,Sports & Outdoors
-2023-10-03 21:27:21,776.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:27:51,778.consumer-03-category.INFO  [x] Received 2022-10-04 04:19:45,Home & Garden
-2023-10-03 21:27:51,778.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:28:21,781.consumer-03-category.INFO  [x] Received 2022-10-04 12:28:50,Home & Garden
-2023-10-03 21:28:21,781.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:28:51,782.consumer-03-category.INFO  [x] Received 2022-10-04 13:58:42,Clothing
-2023-10-03 21:28:51,783.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:29:21,785.consumer-03-category.INFO  [x] Received 2022-10-06 01:19:13,Electronics
-2023-10-03 21:29:21,786.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:29:51,788.consumer-03-category.INFO  [x] Received 2022-10-06 07:31:55,Books
-2023-10-03 21:29:51,788.consumer-03-category.INFO [X] Category Has Been Received and Processed.
-2023-10-03 21:30:16,317.consumer-03-category.INFO User interrupted the continuous listening process.
-2023-10-03 21:30:16,318.consumer-03-category.INFO 
+2023-10-04 11:45:08,108.consumer-03-category.INFO ==================================================
+2023-10-04 11:45:08,108.consumer-03-category.INFO Today is 2023-10-04 at 11:45 AM
+2023-10-04 11:45:08,109.consumer-03-category.INFO Running on: nt Windows 10
+2023-10-04 11:45:08,109.consumer-03-category.INFO Python version:  3.11.1
+2023-10-04 11:45:08,109.consumer-03-category.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
+2023-10-04 11:45:08,109.consumer-03-category.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
+2023-10-04 11:45:08,109.consumer-03-category.INFO ==================================================
+2023-10-04 11:45:08,120.consumer-03-category.INFO  [*] Ready for work. To exit, press CTRL+C
+2023-10-04 11:45:08,120.consumer-03-category.INFO  [x] Received 2022-10-03 06:59:59,Electronics
+2023-10-04 11:45:08,120.consumer-03-category.INFO  [X] Electronics is purchased 100.00% of the time.
+2023-10-04 11:45:08,120.consumer-03-category.INFO  [X] Clothing is purchased 0.00% of the time.
+2023-10-04 11:45:08,120.consumer-03-category.INFO  [X] Home & Garden is purchased 0.00% of the time.
+2023-10-04 11:45:08,120.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 0.00% of the time.
+2023-10-04 11:45:08,121.consumer-03-category.INFO  [X] Books is purchased 0.00% of the time.
+2023-10-04 11:45:08,121.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:10,124.consumer-03-category.INFO  [x] Received 2022-10-03 08:35:55,Books
+2023-10-04 11:45:10,124.consumer-03-category.INFO  [X] Electronics is purchased 50.00% of the time.
+2023-10-04 11:45:10,124.consumer-03-category.INFO  [X] Clothing is purchased 0.00% of the time.
+2023-10-04 11:45:10,124.consumer-03-category.INFO  [X] Home & Garden is purchased 0.00% of the time.
+2023-10-04 11:45:10,125.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 0.00% of the time.
+2023-10-04 11:45:10,125.consumer-03-category.INFO  [X] Books is purchased 50.00% of the time.
+2023-10-04 11:45:10,125.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:15,125.consumer-03-category.INFO  [x] Received 2022-10-03 17:00:25,Electronics
+2023-10-04 11:45:15,126.consumer-03-category.INFO  [X] Electronics is purchased 66.67% of the time.
+2023-10-04 11:45:15,126.consumer-03-category.INFO  [X] Clothing is purchased 0.00% of the time.
+2023-10-04 11:45:15,126.consumer-03-category.INFO  [X] Home & Garden is purchased 0.00% of the time.
+2023-10-04 11:45:15,126.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 0.00% of the time.
+2023-10-04 11:45:15,126.consumer-03-category.INFO  [X] Books is purchased 33.33% of the time.
+2023-10-04 11:45:15,126.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:20,128.consumer-03-category.INFO  [x] Received 2022-10-03 20:33:43,Sports & Outdoors
+2023-10-04 11:45:20,128.consumer-03-category.INFO  [X] Electronics is purchased 50.00% of the time.
+2023-10-04 11:45:20,128.consumer-03-category.INFO  [X] Clothing is purchased 0.00% of the time.
+2023-10-04 11:45:20,128.consumer-03-category.INFO  [X] Home & Garden is purchased 0.00% of the time.
+2023-10-04 11:45:20,128.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.00% of the time.
+2023-10-04 11:45:20,128.consumer-03-category.INFO  [X] Books is purchased 25.00% of the time.
+2023-10-04 11:45:20,129.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:25,129.consumer-03-category.INFO  [x] Received 2022-10-04 04:19:45,Home & Garden
+2023-10-04 11:45:25,130.consumer-03-category.INFO  [X] Electronics is purchased 40.00% of the time.
+2023-10-04 11:45:25,130.consumer-03-category.INFO  [X] Clothing is purchased 0.00% of the time.
+2023-10-04 11:45:25,130.consumer-03-category.INFO  [X] Home & Garden is purchased 20.00% of the time.
+2023-10-04 11:45:25,130.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 20.00% of the time.
+2023-10-04 11:45:25,130.consumer-03-category.INFO  [X] Books is purchased 20.00% of the time.
+2023-10-04 11:45:25,130.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:30,131.consumer-03-category.INFO  [x] Received 2022-10-04 12:28:50,Home & Garden
+2023-10-04 11:45:30,131.consumer-03-category.INFO  [X] Electronics is purchased 33.33% of the time.
+2023-10-04 11:45:30,131.consumer-03-category.INFO  [X] Clothing is purchased 0.00% of the time.
+2023-10-04 11:45:30,131.consumer-03-category.INFO  [X] Home & Garden is purchased 33.33% of the time.
+2023-10-04 11:45:30,132.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 16.67% of the time.
+2023-10-04 11:45:30,132.consumer-03-category.INFO  [X] Books is purchased 16.67% of the time.
+2023-10-04 11:45:30,132.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:35,134.consumer-03-category.INFO  [x] Received 2022-10-04 13:58:42,Clothing
+2023-10-04 11:45:35,134.consumer-03-category.INFO  [X] Electronics is purchased 28.57% of the time.
+2023-10-04 11:45:35,134.consumer-03-category.INFO  [X] Clothing is purchased 14.29% of the time.
+2023-10-04 11:45:35,134.consumer-03-category.INFO  [X] Home & Garden is purchased 28.57% of the time.
+2023-10-04 11:45:35,134.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 14.29% of the time.
+2023-10-04 11:45:35,134.consumer-03-category.INFO  [X] Books is purchased 14.29% of the time.
+2023-10-04 11:45:35,134.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:40,136.consumer-03-category.INFO  [x] Received 2022-10-06 01:19:13,Electronics
+2023-10-04 11:45:40,136.consumer-03-category.INFO  [X] Electronics is purchased 37.50% of the time.
+2023-10-04 11:45:40,136.consumer-03-category.INFO  [X] Clothing is purchased 12.50% of the time.
+2023-10-04 11:45:40,136.consumer-03-category.INFO  [X] Home & Garden is purchased 25.00% of the time.
+2023-10-04 11:45:40,136.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 12.50% of the time.
+2023-10-04 11:45:40,136.consumer-03-category.INFO  [X] Books is purchased 12.50% of the time.
+2023-10-04 11:45:40,136.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:45,137.consumer-03-category.INFO  [x] Received 2022-10-06 07:31:55,Books
+2023-10-04 11:45:45,137.consumer-03-category.INFO  [X] Electronics is purchased 33.33% of the time.
+2023-10-04 11:45:45,137.consumer-03-category.INFO  [X] Clothing is purchased 11.11% of the time.
+2023-10-04 11:45:45,137.consumer-03-category.INFO  [X] Home & Garden is purchased 22.22% of the time.
+2023-10-04 11:45:45,137.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 11.11% of the time.
+2023-10-04 11:45:45,138.consumer-03-category.INFO  [X] Books is purchased 22.22% of the time.
+2023-10-04 11:45:45,138.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:50,143.consumer-03-category.INFO  [x] Received 2022-10-06 17:16:55,Home & Garden
+2023-10-04 11:45:50,143.consumer-03-category.INFO  [X] Electronics is purchased 30.00% of the time.
+2023-10-04 11:45:50,143.consumer-03-category.INFO  [X] Clothing is purchased 10.00% of the time.
+2023-10-04 11:45:50,143.consumer-03-category.INFO  [X] Home & Garden is purchased 30.00% of the time.
+2023-10-04 11:45:50,144.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 10.00% of the time.
+2023-10-04 11:45:50,144.consumer-03-category.INFO  [X] Books is purchased 20.00% of the time.
+2023-10-04 11:45:50,144.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:45:55,140.consumer-03-category.INFO  [x] Received 2022-10-07 00:48:33,Books
+2023-10-04 11:45:55,140.consumer-03-category.INFO  [X] Electronics is purchased 27.27% of the time.
+2023-10-04 11:45:55,141.consumer-03-category.INFO  [X] Clothing is purchased 9.09% of the time.
+2023-10-04 11:45:55,141.consumer-03-category.INFO  [X] Home & Garden is purchased 27.27% of the time.
+2023-10-04 11:45:55,141.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 9.09% of the time.
+2023-10-04 11:45:55,141.consumer-03-category.INFO  [X] Books is purchased 27.27% of the time.
+2023-10-04 11:45:55,141.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:00,142.consumer-03-category.INFO  [x] Received 2022-10-07 03:13:43,Books
+2023-10-04 11:46:00,142.consumer-03-category.INFO  [X] Electronics is purchased 25.00% of the time.
+2023-10-04 11:46:00,142.consumer-03-category.INFO  [X] Clothing is purchased 8.33% of the time.
+2023-10-04 11:46:00,142.consumer-03-category.INFO  [X] Home & Garden is purchased 25.00% of the time.
+2023-10-04 11:46:00,142.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 8.33% of the time.
+2023-10-04 11:46:00,142.consumer-03-category.INFO  [X] Books is purchased 33.33% of the time.
+2023-10-04 11:46:00,142.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:05,143.consumer-03-category.INFO  [x] Received 2022-10-08 02:16:12,Sports & Outdoors
+2023-10-04 11:46:05,143.consumer-03-category.INFO  [X] Electronics is purchased 23.08% of the time.
+2023-10-04 11:46:05,143.consumer-03-category.INFO  [X] Clothing is purchased 7.69% of the time.
+2023-10-04 11:46:05,145.consumer-03-category.INFO  [X] Home & Garden is purchased 23.08% of the time.
+2023-10-04 11:46:05,145.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 15.38% of the time.
+2023-10-04 11:46:05,145.consumer-03-category.INFO  [X] Books is purchased 30.77% of the time.
+2023-10-04 11:46:05,145.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:10,145.consumer-03-category.INFO  [x] Received 2022-10-08 09:25:23,Books
+2023-10-04 11:46:10,145.consumer-03-category.INFO  [X] Electronics is purchased 21.43% of the time.
+2023-10-04 11:46:10,145.consumer-03-category.INFO  [X] Clothing is purchased 7.14% of the time.
+2023-10-04 11:46:10,146.consumer-03-category.INFO  [X] Home & Garden is purchased 21.43% of the time.
+2023-10-04 11:46:10,146.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 14.29% of the time.
+2023-10-04 11:46:10,146.consumer-03-category.INFO  [X] Books is purchased 35.71% of the time.
+2023-10-04 11:46:10,146.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:15,147.consumer-03-category.INFO  [x] Received 2022-10-08 17:14:00,Home & Garden
+2023-10-04 11:46:15,148.consumer-03-category.INFO  [X] Electronics is purchased 20.00% of the time.
+2023-10-04 11:46:15,148.consumer-03-category.INFO  [X] Clothing is purchased 6.67% of the time.
+2023-10-04 11:46:15,148.consumer-03-category.INFO  [X] Home & Garden is purchased 26.67% of the time.
+2023-10-04 11:46:15,148.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 13.33% of the time.
+2023-10-04 11:46:15,148.consumer-03-category.INFO  [X] Books is purchased 33.33% of the time.
+2023-10-04 11:46:15,149.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:20,150.consumer-03-category.INFO  [x] Received 2022-10-08 19:33:35,Books
+2023-10-04 11:46:20,150.consumer-03-category.INFO  [X] Electronics is purchased 18.75% of the time.
+2023-10-04 11:46:20,150.consumer-03-category.INFO  [X] Clothing is purchased 6.25% of the time.
+2023-10-04 11:46:20,150.consumer-03-category.INFO  [X] Home & Garden is purchased 25.00% of the time.
+2023-10-04 11:46:20,150.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 12.50% of the time.
+2023-10-04 11:46:20,150.consumer-03-category.INFO  [X] Books is purchased 37.50% of the time.
+2023-10-04 11:46:20,151.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:25,152.consumer-03-category.INFO  [x] Received 2022-10-08 23:38:31,Sports & Outdoors
+2023-10-04 11:46:25,152.consumer-03-category.INFO  [X] Electronics is purchased 17.65% of the time.
+2023-10-04 11:46:25,152.consumer-03-category.INFO  [X] Clothing is purchased 5.88% of the time.
+2023-10-04 11:46:25,152.consumer-03-category.INFO  [X] Home & Garden is purchased 23.53% of the time.
+2023-10-04 11:46:25,152.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 17.65% of the time.
+2023-10-04 11:46:25,152.consumer-03-category.INFO  [X] Books is purchased 35.29% of the time.
+2023-10-04 11:46:25,153.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:30,154.consumer-03-category.INFO  [x] Received 2022-10-09 04:49:23,Sports & Outdoors
+2023-10-04 11:46:30,154.consumer-03-category.INFO  [X] Electronics is purchased 16.67% of the time.
+2023-10-04 11:46:30,154.consumer-03-category.INFO  [X] Clothing is purchased 5.56% of the time.
+2023-10-04 11:46:30,154.consumer-03-category.INFO  [X] Home & Garden is purchased 22.22% of the time.
+2023-10-04 11:46:30,154.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 22.22% of the time.
+2023-10-04 11:46:30,154.consumer-03-category.INFO  [X] Books is purchased 33.33% of the time.
+2023-10-04 11:46:30,155.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:35,156.consumer-03-category.INFO  [x] Received 2022-10-09 13:26:03,Electronics
+2023-10-04 11:46:35,156.consumer-03-category.INFO  [X] Electronics is purchased 21.05% of the time.
+2023-10-04 11:46:35,156.consumer-03-category.INFO  [X] Clothing is purchased 5.26% of the time.
+2023-10-04 11:46:35,156.consumer-03-category.INFO  [X] Home & Garden is purchased 21.05% of the time.
+2023-10-04 11:46:35,156.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 21.05% of the time.
+2023-10-04 11:46:35,156.consumer-03-category.INFO  [X] Books is purchased 31.58% of the time.
+2023-10-04 11:46:35,157.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:40,158.consumer-03-category.INFO  [x] Received 2022-10-10 11:28:50,Sports & Outdoors
+2023-10-04 11:46:40,158.consumer-03-category.INFO  [X] Electronics is purchased 20.00% of the time.
+2023-10-04 11:46:40,158.consumer-03-category.INFO  [X] Clothing is purchased 5.00% of the time.
+2023-10-04 11:46:40,158.consumer-03-category.INFO  [X] Home & Garden is purchased 20.00% of the time.
+2023-10-04 11:46:40,158.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.00% of the time.
+2023-10-04 11:46:40,159.consumer-03-category.INFO  [X] Books is purchased 30.00% of the time.
+2023-10-04 11:46:40,159.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:45,159.consumer-03-category.INFO  [x] Received 2022-10-11 02:53:40,Books
+2023-10-04 11:46:45,159.consumer-03-category.INFO  [X] Electronics is purchased 19.05% of the time.
+2023-10-04 11:46:45,159.consumer-03-category.INFO  [X] Clothing is purchased 4.76% of the time.
+2023-10-04 11:46:45,159.consumer-03-category.INFO  [X] Home & Garden is purchased 19.05% of the time.
+2023-10-04 11:46:45,159.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 23.81% of the time.
+2023-10-04 11:46:45,159.consumer-03-category.INFO  [X] Books is purchased 33.33% of the time.
+2023-10-04 11:46:45,160.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:50,161.consumer-03-category.INFO  [x] Received 2022-10-11 05:15:33,Sports & Outdoors
+2023-10-04 11:46:50,161.consumer-03-category.INFO  [X] Electronics is purchased 18.18% of the time.
+2023-10-04 11:46:50,162.consumer-03-category.INFO  [X] Clothing is purchased 4.55% of the time.
+2023-10-04 11:46:50,162.consumer-03-category.INFO  [X] Home & Garden is purchased 18.18% of the time.
+2023-10-04 11:46:50,162.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 27.27% of the time.
+2023-10-04 11:46:50,162.consumer-03-category.INFO  [X] Books is purchased 31.82% of the time.
+2023-10-04 11:46:50,162.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:46:55,163.consumer-03-category.INFO  [x] Received 2022-10-11 16:01:19,Electronics
+2023-10-04 11:46:55,163.consumer-03-category.INFO  [X] Electronics is purchased 21.74% of the time.
+2023-10-04 11:46:55,164.consumer-03-category.INFO  [X] Clothing is purchased 4.35% of the time.
+2023-10-04 11:46:55,164.consumer-03-category.INFO  [X] Home & Garden is purchased 17.39% of the time.
+2023-10-04 11:46:55,164.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 26.09% of the time.
+2023-10-04 11:46:55,164.consumer-03-category.INFO  [X] Books is purchased 30.43% of the time.
+2023-10-04 11:46:55,164.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:00,165.consumer-03-category.INFO  [x] Received 2022-10-11 17:58:12,Electronics
+2023-10-04 11:47:00,165.consumer-03-category.INFO  [X] Electronics is purchased 25.00% of the time.
+2023-10-04 11:47:00,165.consumer-03-category.INFO  [X] Clothing is purchased 4.17% of the time.
+2023-10-04 11:47:00,165.consumer-03-category.INFO  [X] Home & Garden is purchased 16.67% of the time.
+2023-10-04 11:47:00,165.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.00% of the time.
+2023-10-04 11:47:00,165.consumer-03-category.INFO  [X] Books is purchased 29.17% of the time.
+2023-10-04 11:47:00,165.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:05,166.consumer-03-category.INFO  [x] Received 2022-10-12 02:42:15,Electronics
+2023-10-04 11:47:05,167.consumer-03-category.INFO  [X] Electronics is purchased 28.00% of the time.
+2023-10-04 11:47:05,167.consumer-03-category.INFO  [X] Clothing is purchased 4.00% of the time.
+2023-10-04 11:47:05,167.consumer-03-category.INFO  [X] Home & Garden is purchased 16.00% of the time.
+2023-10-04 11:47:05,167.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 24.00% of the time.
+2023-10-04 11:47:05,167.consumer-03-category.INFO  [X] Books is purchased 28.00% of the time.
+2023-10-04 11:47:05,167.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:10,169.consumer-03-category.INFO  [x] Received 2022-10-12 20:06:36,Books
+2023-10-04 11:47:10,169.consumer-03-category.INFO  [X] Electronics is purchased 26.92% of the time.
+2023-10-04 11:47:10,170.consumer-03-category.INFO  [X] Clothing is purchased 3.85% of the time.
+2023-10-04 11:47:10,170.consumer-03-category.INFO  [X] Home & Garden is purchased 15.38% of the time.
+2023-10-04 11:47:10,170.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 23.08% of the time.
+2023-10-04 11:47:10,170.consumer-03-category.INFO  [X] Books is purchased 30.77% of the time.
+2023-10-04 11:47:10,170.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:15,171.consumer-03-category.INFO  [x] Received 2022-10-13 14:48:25,Sports & Outdoors
+2023-10-04 11:47:15,171.consumer-03-category.INFO  [X] Electronics is purchased 25.93% of the time.
+2023-10-04 11:47:15,171.consumer-03-category.INFO  [X] Clothing is purchased 3.70% of the time.
+2023-10-04 11:47:15,171.consumer-03-category.INFO  [X] Home & Garden is purchased 14.81% of the time.
+2023-10-04 11:47:15,171.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.93% of the time.
+2023-10-04 11:47:15,171.consumer-03-category.INFO  [X] Books is purchased 29.63% of the time.
+2023-10-04 11:47:15,171.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:20,173.consumer-03-category.INFO  [x] Received 2022-10-13 15:11:14,Home & Garden
+2023-10-04 11:47:20,173.consumer-03-category.INFO  [X] Electronics is purchased 25.00% of the time.
+2023-10-04 11:47:20,173.consumer-03-category.INFO  [X] Clothing is purchased 3.57% of the time.
+2023-10-04 11:47:20,173.consumer-03-category.INFO  [X] Home & Garden is purchased 17.86% of the time.
+2023-10-04 11:47:20,173.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.00% of the time.
+2023-10-04 11:47:20,173.consumer-03-category.INFO  [X] Books is purchased 28.57% of the time.
+2023-10-04 11:47:20,173.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:25,174.consumer-03-category.INFO  [x] Received 2022-10-13 23:46:57,Sports & Outdoors
+2023-10-04 11:47:25,175.consumer-03-category.INFO  [X] Electronics is purchased 24.14% of the time.
+2023-10-04 11:47:25,175.consumer-03-category.INFO  [X] Clothing is purchased 3.45% of the time.
+2023-10-04 11:47:25,175.consumer-03-category.INFO  [X] Home & Garden is purchased 17.24% of the time.
+2023-10-04 11:47:25,175.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 27.59% of the time.
+2023-10-04 11:47:25,175.consumer-03-category.INFO  [X] Books is purchased 27.59% of the time.
+2023-10-04 11:47:25,176.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:30,177.consumer-03-category.INFO  [x] Received 2022-10-14 02:44:23,Sports & Outdoors
+2023-10-04 11:47:30,177.consumer-03-category.INFO  [X] Electronics is purchased 23.33% of the time.
+2023-10-04 11:47:30,177.consumer-03-category.INFO  [X] Clothing is purchased 3.33% of the time.
+2023-10-04 11:47:30,177.consumer-03-category.INFO  [X] Home & Garden is purchased 16.67% of the time.
+2023-10-04 11:47:30,177.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 30.00% of the time.
+2023-10-04 11:47:30,178.consumer-03-category.INFO  [X] Books is purchased 26.67% of the time.
+2023-10-04 11:47:30,178.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:35,178.consumer-03-category.INFO  [x] Received 2022-10-14 16:10:24,Home & Garden
+2023-10-04 11:47:35,178.consumer-03-category.INFO  [X] Electronics is purchased 22.58% of the time.
+2023-10-04 11:47:35,178.consumer-03-category.INFO  [X] Clothing is purchased 3.23% of the time.
+2023-10-04 11:47:35,178.consumer-03-category.INFO  [X] Home & Garden is purchased 19.35% of the time.
+2023-10-04 11:47:35,178.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 29.03% of the time.
+2023-10-04 11:47:35,178.consumer-03-category.INFO  [X] Books is purchased 25.81% of the time.
+2023-10-04 11:47:35,179.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:40,180.consumer-03-category.INFO  [x] Received 2022-10-14 23:13:36,Home & Garden
+2023-10-04 11:47:40,180.consumer-03-category.INFO  [X] Electronics is purchased 21.88% of the time.
+2023-10-04 11:47:40,180.consumer-03-category.INFO  [X] Clothing is purchased 3.12% of the time.
+2023-10-04 11:47:40,180.consumer-03-category.INFO  [X] Home & Garden is purchased 21.88% of the time.
+2023-10-04 11:47:40,180.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 28.12% of the time.
+2023-10-04 11:47:40,180.consumer-03-category.INFO  [X] Books is purchased 25.00% of the time.
+2023-10-04 11:47:40,181.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:45,181.consumer-03-category.INFO  [x] Received 2022-10-15 04:30:28,Electronics
+2023-10-04 11:47:45,181.consumer-03-category.INFO  [X] Electronics is purchased 24.24% of the time.
+2023-10-04 11:47:45,181.consumer-03-category.INFO  [X] Clothing is purchased 3.03% of the time.
+2023-10-04 11:47:45,181.consumer-03-category.INFO  [X] Home & Garden is purchased 21.21% of the time.
+2023-10-04 11:47:45,181.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 27.27% of the time.
+2023-10-04 11:47:45,182.consumer-03-category.INFO  [X] Books is purchased 24.24% of the time.
+2023-10-04 11:47:45,182.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:50,182.consumer-03-category.INFO  [x] Received 2022-10-15 12:22:49,Books
+2023-10-04 11:47:50,182.consumer-03-category.INFO  [X] Electronics is purchased 23.53% of the time.
+2023-10-04 11:47:50,182.consumer-03-category.INFO  [X] Clothing is purchased 2.94% of the time.
+2023-10-04 11:47:50,182.consumer-03-category.INFO  [X] Home & Garden is purchased 20.59% of the time.
+2023-10-04 11:47:50,182.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 26.47% of the time.
+2023-10-04 11:47:50,183.consumer-03-category.INFO  [X] Books is purchased 26.47% of the time.
+2023-10-04 11:47:50,183.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:47:55,184.consumer-03-category.INFO  [x] Received 2022-10-15 20:57:19,Clothing
+2023-10-04 11:47:55,184.consumer-03-category.INFO  [X] Electronics is purchased 22.86% of the time.
+2023-10-04 11:47:55,184.consumer-03-category.INFO  [X] Clothing is purchased 5.71% of the time.
+2023-10-04 11:47:55,184.consumer-03-category.INFO  [X] Home & Garden is purchased 20.00% of the time.
+2023-10-04 11:47:55,184.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.71% of the time.
+2023-10-04 11:47:55,184.consumer-03-category.INFO  [X] Books is purchased 25.71% of the time.
+2023-10-04 11:47:55,184.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:00,186.consumer-03-category.INFO  [x] Received 2022-10-16 01:40:49,Clothing
+2023-10-04 11:48:00,186.consumer-03-category.INFO  [X] Electronics is purchased 22.22% of the time.
+2023-10-04 11:48:00,186.consumer-03-category.INFO  [X] Clothing is purchased 8.33% of the time.
+2023-10-04 11:48:00,186.consumer-03-category.INFO  [X] Home & Garden is purchased 19.44% of the time.
+2023-10-04 11:48:00,186.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 25.00% of the time.
+2023-10-04 11:48:00,186.consumer-03-category.INFO  [X] Books is purchased 25.00% of the time.
+2023-10-04 11:48:00,186.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:05,187.consumer-03-category.INFO  [x] Received 2022-10-16 07:41:52,Home & Garden
+2023-10-04 11:48:05,187.consumer-03-category.INFO  [X] Electronics is purchased 21.62% of the time.
+2023-10-04 11:48:05,187.consumer-03-category.INFO  [X] Clothing is purchased 8.11% of the time.
+2023-10-04 11:48:05,187.consumer-03-category.INFO  [X] Home & Garden is purchased 21.62% of the time.
+2023-10-04 11:48:05,187.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 24.32% of the time.
+2023-10-04 11:48:05,188.consumer-03-category.INFO  [X] Books is purchased 24.32% of the time.
+2023-10-04 11:48:05,188.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:10,189.consumer-03-category.INFO  [x] Received 2022-10-16 22:15:16,Home & Garden
+2023-10-04 11:48:10,189.consumer-03-category.INFO  [X] Electronics is purchased 21.05% of the time.
+2023-10-04 11:48:10,189.consumer-03-category.INFO  [X] Clothing is purchased 7.89% of the time.
+2023-10-04 11:48:10,189.consumer-03-category.INFO  [X] Home & Garden is purchased 23.68% of the time.
+2023-10-04 11:48:10,189.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 23.68% of the time.
+2023-10-04 11:48:10,189.consumer-03-category.INFO  [X] Books is purchased 23.68% of the time.
+2023-10-04 11:48:10,189.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:15,191.consumer-03-category.INFO  [x] Received 2022-10-17 00:56:36,Home & Garden
+2023-10-04 11:48:15,191.consumer-03-category.INFO  [X] Electronics is purchased 20.51% of the time.
+2023-10-04 11:48:15,191.consumer-03-category.INFO  [X] Clothing is purchased 7.69% of the time.
+2023-10-04 11:48:15,191.consumer-03-category.INFO  [X] Home & Garden is purchased 25.64% of the time.
+2023-10-04 11:48:15,191.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 23.08% of the time.
+2023-10-04 11:48:15,191.consumer-03-category.INFO  [X] Books is purchased 23.08% of the time.
+2023-10-04 11:48:15,191.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:20,192.consumer-03-category.INFO  [x] Received 2022-10-17 02:46:53,Books
+2023-10-04 11:48:20,193.consumer-03-category.INFO  [X] Electronics is purchased 20.00% of the time.
+2023-10-04 11:48:20,193.consumer-03-category.INFO  [X] Clothing is purchased 7.50% of the time.
+2023-10-04 11:48:20,193.consumer-03-category.INFO  [X] Home & Garden is purchased 25.00% of the time.
+2023-10-04 11:48:20,193.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 22.50% of the time.
+2023-10-04 11:48:20,193.consumer-03-category.INFO  [X] Books is purchased 25.00% of the time.
+2023-10-04 11:48:20,193.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:25,194.consumer-03-category.INFO  [x] Received 2022-10-17 05:16:58,Clothing
+2023-10-04 11:48:25,194.consumer-03-category.INFO  [X] Electronics is purchased 19.51% of the time.
+2023-10-04 11:48:25,194.consumer-03-category.INFO  [X] Clothing is purchased 9.76% of the time.
+2023-10-04 11:48:25,194.consumer-03-category.INFO  [X] Home & Garden is purchased 24.39% of the time.
+2023-10-04 11:48:25,194.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 21.95% of the time.
+2023-10-04 11:48:25,194.consumer-03-category.INFO  [X] Books is purchased 24.39% of the time.
+2023-10-04 11:48:25,194.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:30,196.consumer-03-category.INFO  [x] Received 2022-10-17 09:33:13,Home & Garden
+2023-10-04 11:48:30,196.consumer-03-category.INFO  [X] Electronics is purchased 19.05% of the time.
+2023-10-04 11:48:30,196.consumer-03-category.INFO  [X] Clothing is purchased 9.52% of the time.
+2023-10-04 11:48:30,196.consumer-03-category.INFO  [X] Home & Garden is purchased 26.19% of the time.
+2023-10-04 11:48:30,196.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 21.43% of the time.
+2023-10-04 11:48:30,196.consumer-03-category.INFO  [X] Books is purchased 23.81% of the time.
+2023-10-04 11:48:30,197.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:35,197.consumer-03-category.INFO  [x] Received 2022-10-17 22:54:14,Sports & Outdoors
+2023-10-04 11:48:35,197.consumer-03-category.INFO  [X] Electronics is purchased 18.60% of the time.
+2023-10-04 11:48:35,197.consumer-03-category.INFO  [X] Clothing is purchased 9.30% of the time.
+2023-10-04 11:48:35,197.consumer-03-category.INFO  [X] Home & Garden is purchased 25.58% of the time.
+2023-10-04 11:48:35,197.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 23.26% of the time.
+2023-10-04 11:48:35,197.consumer-03-category.INFO  [X] Books is purchased 23.26% of the time.
+2023-10-04 11:48:35,197.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:40,198.consumer-03-category.INFO  [x] Received 2022-10-18 02:15:35,Clothing
+2023-10-04 11:48:40,199.consumer-03-category.INFO  [X] Electronics is purchased 18.18% of the time.
+2023-10-04 11:48:40,199.consumer-03-category.INFO  [X] Clothing is purchased 11.36% of the time.
+2023-10-04 11:48:40,199.consumer-03-category.INFO  [X] Home & Garden is purchased 25.00% of the time.
+2023-10-04 11:48:40,199.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 22.73% of the time.
+2023-10-04 11:48:40,199.consumer-03-category.INFO  [X] Books is purchased 22.73% of the time.
+2023-10-04 11:48:40,199.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:45,200.consumer-03-category.INFO  [x] Received 2022-10-18 06:31:14,Books
+2023-10-04 11:48:45,200.consumer-03-category.INFO  [X] Electronics is purchased 17.78% of the time.
+2023-10-04 11:48:45,200.consumer-03-category.INFO  [X] Clothing is purchased 11.11% of the time.
+2023-10-04 11:48:45,201.consumer-03-category.INFO  [X] Home & Garden is purchased 24.44% of the time.
+2023-10-04 11:48:45,201.consumer-03-category.INFO  [X] Sports & Outdoors is purchased 22.22% of the time.
+2023-10-04 11:48:45,201.consumer-03-category.INFO  [X] Books is purchased 24.44% of the time.
+2023-10-04 11:48:45,201.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-04 11:48:50,207.consumer-03-category.INFO User interrupted the continuous listening process.
+2023-10-04 11:48:50,207.consumer-03-category.INFO 
 Closing connection. Goodbye.
 
