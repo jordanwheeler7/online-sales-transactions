@@ -12,7 +12,7 @@ This project represents a streaming data pipeline utilizing [RabbitMQ](https://w
 1. Open a terminal window
 2. Navigate to the project folder
 3. Type `python -m venv .venv` to create a virtual environment
-4. Type `source .venv/bin/activate` to activate the virtual environment
+4. Type `source .venv/Scripts/activate` to activate the virtual environment
 
 ## Requirements
 1. Git
