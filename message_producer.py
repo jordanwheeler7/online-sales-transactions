@@ -66,12 +66,11 @@ def send_message(host: str, first_queue_name: str, second_queue_name: str, third
             # for each row in the file
             for row in reader:
                 # get row variables
-                Payment_Method, Payment_Amount, Category, Timestamp = row
-                
+                Payment_Method, Payment_Amount, Category, Timestamp = row             
                        
                 # create a message to send to the queue
                 message1 = Timestamp, Payment_Method
-                message2 = Timestamp, Payment_Amount
+                message2 = Timestamp, Payment_Amount, Payment_Method
                 message3 = Timestamp, Category
                 
                 # encode the messages
@@ -93,7 +92,7 @@ def send_message(host: str, first_queue_name: str, second_queue_name: str, third
                 # print a message to the console for the user
                 logger.info(f" [x] Sent {message3} to {third_queue_name}")
                 # Wait 30 seconds between each message
-                time.sleep(30)
+                time.sleep(3)
                 
     except pika.exceptions.AMQPConnectionError as e:
         logger.error(f"Error: Connection to RabbitMQ server failed: {e}")

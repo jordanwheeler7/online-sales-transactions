@@ -1,0 +1,30 @@
+2023-10-03 21:27:06,241.consumer-03-category.INFO ==================================================
+2023-10-03 21:27:06,241.consumer-03-category.INFO Today is 2023-10-03 at 09:27 PM
+2023-10-03 21:27:06,242.consumer-03-category.INFO Running on: nt Windows 10
+2023-10-03 21:27:06,242.consumer-03-category.INFO Python version:  3.11.1
+2023-10-03 21:27:06,242.consumer-03-category.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
+2023-10-03 21:27:06,242.consumer-03-category.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
+2023-10-03 21:27:06,243.consumer-03-category.INFO ==================================================
+2023-10-03 21:27:06,262.consumer-03-category.INFO  [*] Ready for work. To exit, press CTRL+C
+2023-10-03 21:27:06,262.consumer-03-category.INFO  [x] Received 2022-10-03 06:59:59,Electronics
+2023-10-03 21:27:06,262.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:27:06,262.consumer-03-category.INFO  [x] Received 2022-10-03 08:35:55,Books
+2023-10-03 21:27:06,262.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:27:06,263.consumer-03-category.INFO  [x] Received 2022-10-03 17:00:25,Electronics
+2023-10-03 21:27:06,263.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:27:21,775.consumer-03-category.INFO  [x] Received 2022-10-03 20:33:43,Sports & Outdoors
+2023-10-03 21:27:21,776.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:27:51,778.consumer-03-category.INFO  [x] Received 2022-10-04 04:19:45,Home & Garden
+2023-10-03 21:27:51,778.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:28:21,781.consumer-03-category.INFO  [x] Received 2022-10-04 12:28:50,Home & Garden
+2023-10-03 21:28:21,781.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:28:51,782.consumer-03-category.INFO  [x] Received 2022-10-04 13:58:42,Clothing
+2023-10-03 21:28:51,783.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:29:21,785.consumer-03-category.INFO  [x] Received 2022-10-06 01:19:13,Electronics
+2023-10-03 21:29:21,786.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:29:51,788.consumer-03-category.INFO  [x] Received 2022-10-06 07:31:55,Books
+2023-10-03 21:29:51,788.consumer-03-category.INFO [X] Category Has Been Received and Processed.
+2023-10-03 21:30:16,317.consumer-03-category.INFO User interrupted the continuous listening process.
+2023-10-03 21:30:16,318.consumer-03-category.INFO 
+Closing connection. Goodbye.
+

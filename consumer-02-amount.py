@@ -10,7 +10,7 @@ from util_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
 # Initialize the original price as None
-original_price = float(0.00)
+original_price = None
 
 # Define a callback function to be called when a message is received
 def amount_callback(ch, method, properties, body):
@@ -18,43 +18,50 @@ def amount_callback(ch, method, properties, body):
         This function will be called each time a message is received.
         The function must accept the four arguments shown here.
     """
-    global original_price  # Use the global original_price variable
+    global original_price  # Declare original_price as a global variable
 
     # Decode the binary message body to a string
-    logger.info(f" [x] Received {body.decode()}")
-
-    # Extract the payment method from the message
-    payment_method = body.decode()
-
-    # Check if the payment method is "Store Card"
-    if payment_method == "Store Card":
-        if original_price is not 0.00:
-            # Apply a 10% discount
-            discount = 0.10 * original_price
-            new_price = original_price - discount
-
-            # Check if the new price is greater than $425.00
-            if new_price > float(425.00):
-                logger.info(f"Original price was ${original_price:.2f} but you received a discount for using your store card, and the new price is ${new_price:.2f}. Sending email alert.")
-                email_subject = "Store Card Purchase Alert"
-                email_body = f"Purchase made with a store card. Original price was ${original_price:.2f} but the purchaser received a discount for using their store card, and the new price is ${new_price:.2f}."
+    message = body.decode()
+    # Split Message
+    message = message.split(",")
+    message1 = message[0]
+    message2 = message[1]
+    formatted_message2 = "${:.2f}".format(float(message2))
+    logger.info(f" [x] At {message1} a purchase was made for {formatted_message2}")
+    
+    payment_amount_change = []
+    try: 
+            # Check for valid temperatures
+        if message[1] != None and message[2] != '':
+            # Convert to float
+            payment_amount_change = round(float(message2), 2)
+            # Check for valid timestamp
+            payment_timestamp = message1
+            
+             
+        # Check if payment method is store card and apply 10% discount
+        payment_method = message[2]
+        if payment_method == "Store Card":
+            payment_amount_change = payment_amount_change * 0.9
+            new_payment = payment_amount_change
+            formatted_new_payment = "${:.02f}".format(new_payment)
+            alert_message = True
+        
+        # Check if alert is true and payment is greater than $425.00
+            if alert_message == True and new_payment >= 425.00:
+                logger.info(f"A Store Card has been used. The new price is {formatted_new_payment}.")
+                # Create Email Parts
+                email_subject = "Store Card Used"
+                email_body = f"A Store Card has been used at {payment_timestamp}. The original price was {formatted_message2}The new price is {formatted_new_payment}."
                 createAndSendEmailAlert(email_subject, email_body)
-            else:
-                logger.info(f"Original price was ${original_price:.2f} but you received a discount for using your store card, and the new price is ${new_price:.2f}")
-        else:
-            logger.warning("Original price is not available. Skipping discount calculation.")
-
-    # If the message contains the price, update the original_price
-    try:
-        payment_amount = float(body.decode())
-        original_price = price  # Update the original_price as a float
-    except ValueError:
-        logger.warning("Received a non-numeric value as the price. Skipping price update.")
-
-    # Send Confirmation Report
-    logger.info("[X] Payment Method Received and Processed.")
-    # Delete Message from Queue after Processing
-    ch.basic_ack(delivery_tag=method.delivery_tag)
+                logger.info("Email Sent")
+            
+            logger.info(f"Store Card Was Used. New price is {formatted_new_payment}.")
+        ch.basic_ack(delivery_tag=method.delivery_tag)
+    
+    except Exception as e:
+        logger.error("An Error Occurred While Processing Payment Amounts.")
+        logger.error(f"The error says: {e}")
 
 # Define a main function to run the program
 def main(hn: str = "localhost", qn: str = "02-amount"):
@@ -77,13 +84,13 @@ def main(hn: str = "localhost", qn: str = "02-amount"):
 
     try:
         # Use the connection to create a communication channel
-        channel2 = connection.channel()
+        channel = connection.channel()
 
         # Use the channel to declare a durable queue
         # A durable queue will survive a RabbitMQ server restart
         # and help ensure messages are processed in order
         # Messages will not be deleted until the consumer acknowledges
-        channel2.queue_declare(queue=qn, durable=True)
+        channel.queue_declare(queue=qn, durable=True)
 
         # The QoS level controls the number of messages
         # that can be in-flight (unacknowledged by the consumer)
@@ -93,18 +100,18 @@ def main(hn: str = "localhost", qn: str = "02-amount"):
         # This helps prevent a worker from becoming overwhelmed
         # and improve the overall system performance.
         # prefetch_count = Per consumer limit of unacknowledged messages
-        channel2.basic_qos(prefetch_count=1)
+        channel.basic_qos(prefetch_count=1)
 
         # Configure the channel to listen on a specific queue,
         # use the callback function named callback,
         # and do not auto-acknowledge the message (let the callback handle it)
-        channel2.basic_consume(queue=qn, on_message_callback=amount_callback, auto_ack=False)
+        channel.basic_consume(queue=qn, on_message_callback=amount_callback, auto_ack=False)
 
         # Print a message to the console for the user
         logger.info(" [*] Ready for work. To exit, press CTRL+C")
 
         # Start consuming messages via the communication channel
-        channel2.start_consuming()
+        channel.start_consuming()
 
     # Except, in the event of an error OR user stops the process, do this
     except Exception as e:

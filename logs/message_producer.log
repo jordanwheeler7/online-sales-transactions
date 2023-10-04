@@ -1,54 +1,162 @@
-2023-10-03 12:37:53,092.message_producer.INFO ==================================================
-2023-10-03 12:37:53,092.message_producer.INFO Today is 2023-10-03 at 12:37 PM
-2023-10-03 12:37:53,092.message_producer.INFO Running on: nt Windows 10
-2023-10-03 12:37:53,092.message_producer.INFO Python version:  3.11.1
-2023-10-03 12:37:53,092.message_producer.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
-2023-10-03 12:37:53,093.message_producer.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
-2023-10-03 12:37:53,093.message_producer.INFO ==================================================
-2023-10-03 12:37:53,943.message_producer.INFO Seeing if you want to monitor RabbitMQ queues
-2023-10-03 12:37:53,985.message_producer.INFO Skipping header row
-2023-10-03 12:37:53,985.message_producer.INFO  [x] Sent ('2022-10-03 06:59:59', 'Credit Card') to 01-method
-2023-10-03 12:37:53,986.message_producer.INFO  [x] Sent ('2022-10-03 06:59:59', '422.95') to 02-amount
-2023-10-03 12:37:53,986.message_producer.INFO  [x] Sent ('2022-10-03 06:59:59', 'Electronics') to 03-category
-2023-10-03 12:38:23,988.message_producer.INFO  [x] Sent ('2022-10-03 08:35:55', 'Apple Pay') to 01-method
-2023-10-03 12:38:23,988.message_producer.INFO  [x] Sent ('2022-10-03 08:35:55', '45.5') to 02-amount
-2023-10-03 12:38:23,988.message_producer.INFO  [x] Sent ('2022-10-03 08:35:55', 'Books') to 03-category
-2023-10-03 12:38:53,989.message_producer.INFO  [x] Sent ('2022-10-03 17:00:25', 'Google Wallet') to 01-method
-2023-10-03 12:38:53,989.message_producer.INFO  [x] Sent ('2022-10-03 17:00:25', '336.09') to 02-amount
-2023-10-03 12:38:53,990.message_producer.INFO  [x] Sent ('2022-10-03 17:00:25', 'Electronics') to 03-category
-2023-10-03 12:39:23,991.message_producer.INFO  [x] Sent ('2022-10-03 20:33:43', 'Credit Card') to 01-method
-2023-10-03 12:39:23,991.message_producer.INFO  [x] Sent ('2022-10-03 20:33:43', '496.34') to 02-amount
-2023-10-03 12:39:23,992.message_producer.INFO  [x] Sent ('2022-10-03 20:33:43', 'Sports & Outdoors') to 03-category
-2023-10-03 12:39:53,993.message_producer.INFO  [x] Sent ('2022-10-04 04:19:45', 'Credit Card') to 01-method
-2023-10-03 12:39:53,993.message_producer.INFO  [x] Sent ('2022-10-04 04:19:45', '268.79') to 02-amount
-2023-10-03 12:39:53,994.message_producer.INFO  [x] Sent ('2022-10-04 04:19:45', 'Home & Garden') to 03-category
-2023-10-03 12:40:23,994.message_producer.INFO  [x] Sent ('2022-10-04 12:28:50', 'PayPal') to 01-method
-2023-10-03 12:40:23,995.message_producer.INFO  [x] Sent ('2022-10-04 12:28:50', '134.72') to 02-amount
-2023-10-03 12:40:23,995.message_producer.INFO  [x] Sent ('2022-10-04 12:28:50', 'Home & Garden') to 03-category
-2023-10-03 12:40:53,996.message_producer.INFO  [x] Sent ('2022-10-04 13:58:42', 'Credit Card') to 01-method
-2023-10-03 12:40:54,000.message_producer.INFO  [x] Sent ('2022-10-04 13:58:42', '75.75') to 02-amount
-2023-10-03 12:40:54,001.message_producer.INFO  [x] Sent ('2022-10-04 13:58:42', 'Clothing') to 03-category
-2023-10-03 12:41:24,002.message_producer.INFO  [x] Sent ('2022-10-06 01:19:13', 'Debit Card') to 01-method
-2023-10-03 12:41:24,003.message_producer.INFO  [x] Sent ('2022-10-06 01:19:13', '496.03') to 02-amount
-2023-10-03 12:41:24,003.message_producer.INFO  [x] Sent ('2022-10-06 01:19:13', 'Electronics') to 03-category
-2023-10-03 12:41:54,004.message_producer.INFO  [x] Sent ('2022-10-06 07:31:55', 'Credit Card') to 01-method
-2023-10-03 12:41:54,004.message_producer.INFO  [x] Sent ('2022-10-06 07:31:55', '469.83') to 02-amount
-2023-10-03 12:41:54,004.message_producer.INFO  [x] Sent ('2022-10-06 07:31:55', 'Books') to 03-category
-2023-10-03 12:42:24,006.message_producer.INFO  [x] Sent ('2022-10-06 17:16:55', 'Credit Card') to 01-method
-2023-10-03 12:42:24,006.message_producer.INFO  [x] Sent ('2022-10-06 17:16:55', '66.31') to 02-amount
-2023-10-03 12:42:24,006.message_producer.INFO  [x] Sent ('2022-10-06 17:16:55', 'Home & Garden') to 03-category
-2023-10-03 12:42:54,008.message_producer.INFO  [x] Sent ('2022-10-07 00:48:33', 'PayPal') to 01-method
-2023-10-03 12:42:54,008.message_producer.INFO  [x] Sent ('2022-10-07 00:48:33', '136.84') to 02-amount
-2023-10-03 12:42:54,008.message_producer.INFO  [x] Sent ('2022-10-07 00:48:33', 'Books') to 03-category
-2023-10-03 12:43:24,009.message_producer.INFO  [x] Sent ('2022-10-07 03:13:43', 'Debit Card') to 01-method
-2023-10-03 12:43:24,009.message_producer.INFO  [x] Sent ('2022-10-07 03:13:43', '138.49') to 02-amount
-2023-10-03 12:43:24,009.message_producer.INFO  [x] Sent ('2022-10-07 03:13:43', 'Books') to 03-category
-2023-10-03 12:43:54,011.message_producer.INFO  [x] Sent ('2022-10-08 02:16:12', 'Debit Card') to 01-method
-2023-10-03 12:43:54,011.message_producer.INFO  [x] Sent ('2022-10-08 02:16:12', '352.42') to 02-amount
-2023-10-03 12:43:54,012.message_producer.INFO  [x] Sent ('2022-10-08 02:16:12', 'Sports & Outdoors') to 03-category
-2023-10-03 12:44:24,013.message_producer.INFO  [x] Sent ('2022-10-08 09:25:23', 'Google Wallet') to 01-method
-2023-10-03 12:44:24,013.message_producer.INFO  [x] Sent ('2022-10-08 09:25:23', '165.4') to 02-amount
-2023-10-03 12:44:24,013.message_producer.INFO  [x] Sent ('2022-10-08 09:25:23', 'Books') to 03-category
-2023-10-03 12:44:54,014.message_producer.INFO  [x] Sent ('2022-10-08 17:14:00', 'PayPal') to 01-method
-2023-10-03 12:44:54,014.message_producer.INFO  [x] Sent ('2022-10-08 17:14:00', '462.16') to 02-amount
-2023-10-03 12:44:54,015.message_producer.INFO  [x] Sent ('2022-10-08 17:14:00', 'Home & Garden') to 03-category
+2023-10-03 22:35:20,822.message_producer.INFO ==================================================
+2023-10-03 22:35:20,822.message_producer.INFO Today is 2023-10-03 at 10:35 PM
+2023-10-03 22:35:20,823.message_producer.INFO Running on: nt Windows 10
+2023-10-03 22:35:20,823.message_producer.INFO Python version:  3.11.1
+2023-10-03 22:35:20,823.message_producer.INFO Python path: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions\.venv
+2023-10-03 22:35:20,823.message_producer.INFO Working dir: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Streaming Data\Module 7\online-sales-transactions
+2023-10-03 22:35:20,823.message_producer.INFO ==================================================
+2023-10-03 22:35:22,263.message_producer.INFO Seeing if you want to monitor RabbitMQ queues
+2023-10-03 22:35:22,303.message_producer.INFO Skipping header row
+2023-10-03 22:35:22,303.message_producer.INFO  [x] Sent ('2022-10-03 06:59:59', 'Credit Card') to 01-method
+2023-10-03 22:35:22,303.message_producer.INFO  [x] Sent ('2022-10-03 06:59:59', '422.95', 'Credit Card') to 02-amount
+2023-10-03 22:35:22,303.message_producer.INFO  [x] Sent ('2022-10-03 06:59:59', 'Electronics') to 03-category
+2023-10-03 22:35:25,304.message_producer.INFO  [x] Sent ('2022-10-03 08:35:55', 'Apple Pay') to 01-method
+2023-10-03 22:35:25,306.message_producer.INFO  [x] Sent ('2022-10-03 08:35:55', '45.5', 'Apple Pay') to 02-amount
+2023-10-03 22:35:25,306.message_producer.INFO  [x] Sent ('2022-10-03 08:35:55', 'Books') to 03-category
+2023-10-03 22:35:28,308.message_producer.INFO  [x] Sent ('2022-10-03 17:00:25', 'Google Wallet') to 01-method
+2023-10-03 22:35:28,309.message_producer.INFO  [x] Sent ('2022-10-03 17:00:25', '336.09', 'Google Wallet') to 02-amount
+2023-10-03 22:35:28,310.message_producer.INFO  [x] Sent ('2022-10-03 17:00:25', 'Electronics') to 03-category
+2023-10-03 22:35:31,311.message_producer.INFO  [x] Sent ('2022-10-03 20:33:43', 'Credit Card') to 01-method
+2023-10-03 22:35:31,311.message_producer.INFO  [x] Sent ('2022-10-03 20:33:43', '496.34', 'Credit Card') to 02-amount
+2023-10-03 22:35:31,312.message_producer.INFO  [x] Sent ('2022-10-03 20:33:43', 'Sports & Outdoors') to 03-category
+2023-10-03 22:35:34,313.message_producer.INFO  [x] Sent ('2022-10-04 04:19:45', 'Credit Card') to 01-method
+2023-10-03 22:35:34,314.message_producer.INFO  [x] Sent ('2022-10-04 04:19:45', '268.79', 'Credit Card') to 02-amount
+2023-10-03 22:35:34,314.message_producer.INFO  [x] Sent ('2022-10-04 04:19:45', 'Home & Garden') to 03-category
+2023-10-03 22:35:37,316.message_producer.INFO  [x] Sent ('2022-10-04 12:28:50', 'PayPal') to 01-method
+2023-10-03 22:35:37,317.message_producer.INFO  [x] Sent ('2022-10-04 12:28:50', '134.72', 'PayPal') to 02-amount
+2023-10-03 22:35:37,318.message_producer.INFO  [x] Sent ('2022-10-04 12:28:50', 'Home & Garden') to 03-category
+2023-10-03 22:35:40,319.message_producer.INFO  [x] Sent ('2022-10-04 13:58:42', 'Credit Card') to 01-method
+2023-10-03 22:35:40,320.message_producer.INFO  [x] Sent ('2022-10-04 13:58:42', '75.75', 'Credit Card') to 02-amount
+2023-10-03 22:35:40,320.message_producer.INFO  [x] Sent ('2022-10-04 13:58:42', 'Clothing') to 03-category
+2023-10-03 22:35:43,322.message_producer.INFO  [x] Sent ('2022-10-06 01:19:13', 'Debit Card') to 01-method
+2023-10-03 22:35:43,323.message_producer.INFO  [x] Sent ('2022-10-06 01:19:13', '496.03', 'Debit Card') to 02-amount
+2023-10-03 22:35:43,323.message_producer.INFO  [x] Sent ('2022-10-06 01:19:13', 'Electronics') to 03-category
+2023-10-03 22:35:46,324.message_producer.INFO  [x] Sent ('2022-10-06 07:31:55', 'Credit Card') to 01-method
+2023-10-03 22:35:46,325.message_producer.INFO  [x] Sent ('2022-10-06 07:31:55', '469.83', 'Credit Card') to 02-amount
+2023-10-03 22:35:46,326.message_producer.INFO  [x] Sent ('2022-10-06 07:31:55', 'Books') to 03-category
+2023-10-03 22:35:49,327.message_producer.INFO  [x] Sent ('2022-10-06 17:16:55', 'Credit Card') to 01-method
+2023-10-03 22:35:49,327.message_producer.INFO  [x] Sent ('2022-10-06 17:16:55', '66.31', 'Credit Card') to 02-amount
+2023-10-03 22:35:49,328.message_producer.INFO  [x] Sent ('2022-10-06 17:16:55', 'Home & Garden') to 03-category
+2023-10-03 22:35:52,330.message_producer.INFO  [x] Sent ('2022-10-07 00:48:33', 'PayPal') to 01-method
+2023-10-03 22:35:52,331.message_producer.INFO  [x] Sent ('2022-10-07 00:48:33', '136.84', 'PayPal') to 02-amount
+2023-10-03 22:35:52,331.message_producer.INFO  [x] Sent ('2022-10-07 00:48:33', 'Books') to 03-category
+2023-10-03 22:35:55,332.message_producer.INFO  [x] Sent ('2022-10-07 03:13:43', 'Debit Card') to 01-method
+2023-10-03 22:35:55,333.message_producer.INFO  [x] Sent ('2022-10-07 03:13:43', '138.49', 'Debit Card') to 02-amount
+2023-10-03 22:35:55,334.message_producer.INFO  [x] Sent ('2022-10-07 03:13:43', 'Books') to 03-category
+2023-10-03 22:35:58,336.message_producer.INFO  [x] Sent ('2022-10-08 02:16:12', 'Debit Card') to 01-method
+2023-10-03 22:35:58,336.message_producer.INFO  [x] Sent ('2022-10-08 02:16:12', '352.42', 'Debit Card') to 02-amount
+2023-10-03 22:35:58,336.message_producer.INFO  [x] Sent ('2022-10-08 02:16:12', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:01,337.message_producer.INFO  [x] Sent ('2022-10-08 09:25:23', 'Google Wallet') to 01-method
+2023-10-03 22:36:01,338.message_producer.INFO  [x] Sent ('2022-10-08 09:25:23', '165.4', 'Google Wallet') to 02-amount
+2023-10-03 22:36:01,339.message_producer.INFO  [x] Sent ('2022-10-08 09:25:23', 'Books') to 03-category
+2023-10-03 22:36:04,340.message_producer.INFO  [x] Sent ('2022-10-08 17:14:00', 'PayPal') to 01-method
+2023-10-03 22:36:04,341.message_producer.INFO  [x] Sent ('2022-10-08 17:14:00', '462.16', 'PayPal') to 02-amount
+2023-10-03 22:36:04,341.message_producer.INFO  [x] Sent ('2022-10-08 17:14:00', 'Home & Garden') to 03-category
+2023-10-03 22:36:07,343.message_producer.INFO  [x] Sent ('2022-10-08 19:33:35', 'Store Card') to 01-method
+2023-10-03 22:36:07,344.message_producer.INFO  [x] Sent ('2022-10-08 19:33:35', '479.98', 'Store Card') to 02-amount
+2023-10-03 22:36:07,344.message_producer.INFO  [x] Sent ('2022-10-08 19:33:35', 'Books') to 03-category
+2023-10-03 22:36:10,345.message_producer.INFO  [x] Sent ('2022-10-08 23:38:31', 'PayPal') to 01-method
+2023-10-03 22:36:10,346.message_producer.INFO  [x] Sent ('2022-10-08 23:38:31', '123.72', 'PayPal') to 02-amount
+2023-10-03 22:36:10,346.message_producer.INFO  [x] Sent ('2022-10-08 23:38:31', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:13,348.message_producer.INFO  [x] Sent ('2022-10-09 04:49:23', 'PayPal') to 01-method
+2023-10-03 22:36:13,348.message_producer.INFO  [x] Sent ('2022-10-09 04:49:23', '471.57', 'PayPal') to 02-amount
+2023-10-03 22:36:13,348.message_producer.INFO  [x] Sent ('2022-10-09 04:49:23', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:16,350.message_producer.INFO  [x] Sent ('2022-10-09 13:26:03', 'PayPal') to 01-method
+2023-10-03 22:36:16,351.message_producer.INFO  [x] Sent ('2022-10-09 13:26:03', '86.0', 'PayPal') to 02-amount
+2023-10-03 22:36:16,352.message_producer.INFO  [x] Sent ('2022-10-09 13:26:03', 'Electronics') to 03-category
+2023-10-03 22:36:19,352.message_producer.INFO  [x] Sent ('2022-10-10 11:28:50', 'Credit Card') to 01-method
+2023-10-03 22:36:19,354.message_producer.INFO  [x] Sent ('2022-10-10 11:28:50', '423.48', 'Credit Card') to 02-amount
+2023-10-03 22:36:19,354.message_producer.INFO  [x] Sent ('2022-10-10 11:28:50', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:22,356.message_producer.INFO  [x] Sent ('2022-10-11 02:53:40', 'Google Wallet') to 01-method
+2023-10-03 22:36:22,356.message_producer.INFO  [x] Sent ('2022-10-11 02:53:40', '14.62', 'Google Wallet') to 02-amount
+2023-10-03 22:36:22,356.message_producer.INFO  [x] Sent ('2022-10-11 02:53:40', 'Books') to 03-category
+2023-10-03 22:36:25,359.message_producer.INFO  [x] Sent ('2022-10-11 05:15:33', 'Store Card') to 01-method
+2023-10-03 22:36:25,359.message_producer.INFO  [x] Sent ('2022-10-11 05:15:33', '450.55', 'Store Card') to 02-amount
+2023-10-03 22:36:25,359.message_producer.INFO  [x] Sent ('2022-10-11 05:15:33', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:28,361.message_producer.INFO  [x] Sent ('2022-10-11 16:01:19', 'Credit Card') to 01-method
+2023-10-03 22:36:28,363.message_producer.INFO  [x] Sent ('2022-10-11 16:01:19', '45.08', 'Credit Card') to 02-amount
+2023-10-03 22:36:28,363.message_producer.INFO  [x] Sent ('2022-10-11 16:01:19', 'Electronics') to 03-category
+2023-10-03 22:36:31,364.message_producer.INFO  [x] Sent ('2022-10-11 17:58:12', 'Apple Pay') to 01-method
+2023-10-03 22:36:31,364.message_producer.INFO  [x] Sent ('2022-10-11 17:58:12', '178.87', 'Apple Pay') to 02-amount
+2023-10-03 22:36:31,364.message_producer.INFO  [x] Sent ('2022-10-11 17:58:12', 'Electronics') to 03-category
+2023-10-03 22:36:34,366.message_producer.INFO  [x] Sent ('2022-10-12 02:42:15', 'Credit Card') to 01-method
+2023-10-03 22:36:34,367.message_producer.INFO  [x] Sent ('2022-10-12 02:42:15', '352.95', 'Credit Card') to 02-amount
+2023-10-03 22:36:34,367.message_producer.INFO  [x] Sent ('2022-10-12 02:42:15', 'Electronics') to 03-category
+2023-10-03 22:36:37,368.message_producer.INFO  [x] Sent ('2022-10-12 20:06:36', 'Google Wallet') to 01-method
+2023-10-03 22:36:37,369.message_producer.INFO  [x] Sent ('2022-10-12 20:06:36', '132.98', 'Google Wallet') to 02-amount
+2023-10-03 22:36:37,369.message_producer.INFO  [x] Sent ('2022-10-12 20:06:36', 'Books') to 03-category
+2023-10-03 22:36:40,371.message_producer.INFO  [x] Sent ('2022-10-13 14:48:25', 'Google Wallet') to 01-method
+2023-10-03 22:36:40,373.message_producer.INFO  [x] Sent ('2022-10-13 14:48:25', '370.91', 'Google Wallet') to 02-amount
+2023-10-03 22:36:40,373.message_producer.INFO  [x] Sent ('2022-10-13 14:48:25', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:43,374.message_producer.INFO  [x] Sent ('2022-10-13 15:11:14', 'Google Wallet') to 01-method
+2023-10-03 22:36:43,375.message_producer.INFO  [x] Sent ('2022-10-13 15:11:14', '284.69', 'Google Wallet') to 02-amount
+2023-10-03 22:36:43,376.message_producer.INFO  [x] Sent ('2022-10-13 15:11:14', 'Home & Garden') to 03-category
+2023-10-03 22:36:46,377.message_producer.INFO  [x] Sent ('2022-10-13 23:46:57', 'Credit Card') to 01-method
+2023-10-03 22:36:46,378.message_producer.INFO  [x] Sent ('2022-10-13 23:46:57', '348.49', 'Credit Card') to 02-amount
+2023-10-03 22:36:46,378.message_producer.INFO  [x] Sent ('2022-10-13 23:46:57', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:49,380.message_producer.INFO  [x] Sent ('2022-10-14 02:44:23', 'Apple Pay') to 01-method
+2023-10-03 22:36:49,381.message_producer.INFO  [x] Sent ('2022-10-14 02:44:23', '249.77', 'Apple Pay') to 02-amount
+2023-10-03 22:36:49,381.message_producer.INFO  [x] Sent ('2022-10-14 02:44:23', 'Sports & Outdoors') to 03-category
+2023-10-03 22:36:52,383.message_producer.INFO  [x] Sent ('2022-10-14 16:10:24', 'Debit Card') to 01-method
+2023-10-03 22:36:52,384.message_producer.INFO  [x] Sent ('2022-10-14 16:10:24', '475.24', 'Debit Card') to 02-amount
+2023-10-03 22:36:52,384.message_producer.INFO  [x] Sent ('2022-10-14 16:10:24', 'Home & Garden') to 03-category
+2023-10-03 22:36:55,386.message_producer.INFO  [x] Sent ('2022-10-14 23:13:36', 'Credit Card') to 01-method
+2023-10-03 22:36:55,387.message_producer.INFO  [x] Sent ('2022-10-14 23:13:36', '348.99', 'Credit Card') to 02-amount
+2023-10-03 22:36:55,388.message_producer.INFO  [x] Sent ('2022-10-14 23:13:36', 'Home & Garden') to 03-category
+2023-10-03 22:36:58,389.message_producer.INFO  [x] Sent ('2022-10-15 04:30:28', 'PayPal') to 01-method
+2023-10-03 22:36:58,390.message_producer.INFO  [x] Sent ('2022-10-15 04:30:28', '72.11', 'PayPal') to 02-amount
+2023-10-03 22:36:58,390.message_producer.INFO  [x] Sent ('2022-10-15 04:30:28', 'Electronics') to 03-category
+2023-10-03 22:37:01,391.message_producer.INFO  [x] Sent ('2022-10-15 12:22:49', 'Credit Card') to 01-method
+2023-10-03 22:37:01,392.message_producer.INFO  [x] Sent ('2022-10-15 12:22:49', '350.96', 'Credit Card') to 02-amount
+2023-10-03 22:37:01,392.message_producer.INFO  [x] Sent ('2022-10-15 12:22:49', 'Books') to 03-category
+2023-10-03 22:37:04,394.message_producer.INFO  [x] Sent ('2022-10-15 20:57:19', 'Debit Card') to 01-method
+2023-10-03 22:37:04,394.message_producer.INFO  [x] Sent ('2022-10-15 20:57:19', '481.23', 'Debit Card') to 02-amount
+2023-10-03 22:37:04,394.message_producer.INFO  [x] Sent ('2022-10-15 20:57:19', 'Clothing') to 03-category
+2023-10-03 22:37:07,396.message_producer.INFO  [x] Sent ('2022-10-16 01:40:49', 'Apple Pay') to 01-method
+2023-10-03 22:37:07,397.message_producer.INFO  [x] Sent ('2022-10-16 01:40:49', '380.62', 'Apple Pay') to 02-amount
+2023-10-03 22:37:07,397.message_producer.INFO  [x] Sent ('2022-10-16 01:40:49', 'Clothing') to 03-category
+2023-10-03 22:37:10,398.message_producer.INFO  [x] Sent ('2022-10-16 07:41:52', 'Google Wallet') to 01-method
+2023-10-03 22:37:10,400.message_producer.INFO  [x] Sent ('2022-10-16 07:41:52', '319.0', 'Google Wallet') to 02-amount
+2023-10-03 22:37:10,400.message_producer.INFO  [x] Sent ('2022-10-16 07:41:52', 'Home & Garden') to 03-category
+2023-10-03 22:37:13,401.message_producer.INFO  [x] Sent ('2022-10-16 22:15:16', 'Store Card') to 01-method
+2023-10-03 22:37:13,402.message_producer.INFO  [x] Sent ('2022-10-16 22:15:16', '79.01', 'Store Card') to 02-amount
+2023-10-03 22:37:13,402.message_producer.INFO  [x] Sent ('2022-10-16 22:15:16', 'Home & Garden') to 03-category
+2023-10-03 22:37:16,404.message_producer.INFO  [x] Sent ('2022-10-17 00:56:36', 'Store Card') to 01-method
+2023-10-03 22:37:16,404.message_producer.INFO  [x] Sent ('2022-10-17 00:56:36', '351.52', 'Store Card') to 02-amount
+2023-10-03 22:37:16,406.message_producer.INFO  [x] Sent ('2022-10-17 00:56:36', 'Home & Garden') to 03-category
+2023-10-03 22:37:19,406.message_producer.INFO  [x] Sent ('2022-10-17 02:46:53', 'Google Wallet') to 01-method
+2023-10-03 22:37:19,407.message_producer.INFO  [x] Sent ('2022-10-17 02:46:53', '309.71', 'Google Wallet') to 02-amount
+2023-10-03 22:37:19,409.message_producer.INFO  [x] Sent ('2022-10-17 02:46:53', 'Books') to 03-category
+2023-10-03 22:37:22,410.message_producer.INFO  [x] Sent ('2022-10-17 05:16:58', 'PayPal') to 01-method
+2023-10-03 22:37:22,410.message_producer.INFO  [x] Sent ('2022-10-17 05:16:58', '144.25', 'PayPal') to 02-amount
+2023-10-03 22:37:22,411.message_producer.INFO  [x] Sent ('2022-10-17 05:16:58', 'Clothing') to 03-category
+2023-10-03 22:37:25,412.message_producer.INFO  [x] Sent ('2022-10-17 09:33:13', 'Credit Card') to 01-method
+2023-10-03 22:37:25,413.message_producer.INFO  [x] Sent ('2022-10-17 09:33:13', '339.27', 'Credit Card') to 02-amount
+2023-10-03 22:37:25,414.message_producer.INFO  [x] Sent ('2022-10-17 09:33:13', 'Home & Garden') to 03-category
+2023-10-03 22:37:28,415.message_producer.INFO  [x] Sent ('2022-10-17 22:54:14', 'Store Card') to 01-method
+2023-10-03 22:37:28,416.message_producer.INFO  [x] Sent ('2022-10-17 22:54:14', '451.14', 'Store Card') to 02-amount
+2023-10-03 22:37:28,416.message_producer.INFO  [x] Sent ('2022-10-17 22:54:14', 'Sports & Outdoors') to 03-category
+2023-10-03 22:37:31,418.message_producer.INFO  [x] Sent ('2022-10-18 02:15:35', 'Google Wallet') to 01-method
+2023-10-03 22:37:31,418.message_producer.INFO  [x] Sent ('2022-10-18 02:15:35', '435.1', 'Google Wallet') to 02-amount
+2023-10-03 22:37:31,418.message_producer.INFO  [x] Sent ('2022-10-18 02:15:35', 'Clothing') to 03-category
+2023-10-03 22:37:34,419.message_producer.INFO  [x] Sent ('2022-10-18 06:31:14', 'PayPal') to 01-method
+2023-10-03 22:37:34,420.message_producer.INFO  [x] Sent ('2022-10-18 06:31:14', '343.41', 'PayPal') to 02-amount
+2023-10-03 22:37:34,421.message_producer.INFO  [x] Sent ('2022-10-18 06:31:14', 'Books') to 03-category
+2023-10-03 22:37:37,422.message_producer.INFO  [x] Sent ('2022-10-18 09:01:28', 'PayPal') to 01-method
+2023-10-03 22:37:37,423.message_producer.INFO  [x] Sent ('2022-10-18 09:01:28', '369.93', 'PayPal') to 02-amount
+2023-10-03 22:37:37,423.message_producer.INFO  [x] Sent ('2022-10-18 09:01:28', 'Books') to 03-category
+2023-10-03 22:37:40,425.message_producer.INFO  [x] Sent ('2022-10-18 13:23:29', 'Store Card') to 01-method
+2023-10-03 22:37:40,425.message_producer.INFO  [x] Sent ('2022-10-18 13:23:29', '77.26', 'Store Card') to 02-amount
+2023-10-03 22:37:40,425.message_producer.INFO  [x] Sent ('2022-10-18 13:23:29', 'Sports & Outdoors') to 03-category
+2023-10-03 22:37:43,427.message_producer.INFO  [x] Sent ('2022-10-18 13:44:14', 'Debit Card') to 01-method
+2023-10-03 22:37:43,428.message_producer.INFO  [x] Sent ('2022-10-18 13:44:14', '444.63', 'Debit Card') to 02-amount
+2023-10-03 22:37:43,428.message_producer.INFO  [x] Sent ('2022-10-18 13:44:14', 'Books') to 03-category
+2023-10-03 22:37:46,430.message_producer.INFO  [x] Sent ('2022-10-18 19:00:07', 'Debit Card') to 01-method
+2023-10-03 22:37:46,431.message_producer.INFO  [x] Sent ('2022-10-18 19:00:07', '113.42', 'Debit Card') to 02-amount
+2023-10-03 22:37:46,432.message_producer.INFO  [x] Sent ('2022-10-18 19:00:07', 'Electronics') to 03-category
+2023-10-03 22:37:49,433.message_producer.INFO  [x] Sent ('2022-10-18 23:41:49', 'Google Wallet') to 01-method
+2023-10-03 22:37:49,434.message_producer.INFO  [x] Sent ('2022-10-18 23:41:49', '418.2', 'Google Wallet') to 02-amount
+2023-10-03 22:37:49,434.message_producer.INFO  [x] Sent ('2022-10-18 23:41:49', 'Clothing') to 03-category
+2023-10-03 22:37:52,436.message_producer.INFO  [x] Sent ('2022-10-19 01:04:23', 'Credit Card') to 01-method
+2023-10-03 22:37:52,437.message_producer.INFO  [x] Sent ('2022-10-19 01:04:23', '409.84', 'Credit Card') to 02-amount
+2023-10-03 22:37:52,437.message_producer.INFO  [x] Sent ('2022-10-19 01:04:23', 'Clothing') to 03-category
